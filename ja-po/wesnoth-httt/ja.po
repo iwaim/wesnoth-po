@@ -6,13 +6,14 @@
 # naoki iimura <amatubu@gmail.com>, 2005-2008.
 # Nobuhito Okada <okyada@gmail.com>, 2005-2006.
 # Takanobu Hirai <airhead@users.sourceforge.jp>, 2006.
+# IWAI, Masaharu <iwaim.sub@gmail.com>, 2010.
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.1.7\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2009-04-17 13:29+0200\n"
-"PO-Revision-Date: 2008-02-22 00:19+0900\n"
+"PO-Revision-Date: 2010-02-08 07:01+0900\n"
 "Last-Translator: naoki iimura <amatubu@gmail.com>\n"
 "Language-Team: Japanese Translation Team\n"
 "MIME-Version: 1.0\n"
@@ -342,7 +343,6 @@ msgstr "Chantal"
 
 #. [message]: speaker=narrator
 #: data/campaigns/Heir_To_The_Throne/scenarios/01_The_Elves_Besieged.cfg:239
-#, fuzzy
 msgid ""
 "Sixteen years into her rule, Asheviere turned her attention to the wood "
 "elves living in the great forest southwest of Wesnoth, whom she despised. "
@@ -440,7 +440,6 @@ msgstr "それでは、始まりだ！"
 
 #. [message]: speaker=unit
 #: data/campaigns/Heir_To_The_Throne/scenarios/01_The_Elves_Besieged.cfg:314
-#, fuzzy
 msgid "Very well, we have made it this far! But where do we go next?"
 msgstr ""
 "よし、こんなに遠くまでくることができました！ しかし、次はどこに行くのですか？"
@@ -634,7 +633,6 @@ msgstr ""
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/scenarios/02_Blackwater_Port.cfg:164
-#, fuzzy
 msgid ""
 "Konrad, this is Kaylan, one of the mightiest of the horse lords, and one of "
 "the few who is willing to oppose the Dark Crown. Rumor has it that his lance "
