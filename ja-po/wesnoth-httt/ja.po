@@ -13,8 +13,8 @@ msgstr ""
 "Project-Id-Version: 1.1.7\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2009-04-17 13:29+0200\n"
-"PO-Revision-Date: 2010-02-08 07:01+0900\n"
-"Last-Translator: naoki iimura <amatubu@gmail.com>\n"
+"PO-Revision-Date: 2010-02-08 19:55+0900\n"
+"Last-Translator: IWAI, Masaharu <iwaim.sub@gmail.com>\n"
 "Language-Team: Japanese Translation Team\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -577,6 +577,9 @@ msgid ""
 "@Defeat the enemy leader\n"
 "`(special bonus)"
 msgstr ""
+"<255,255,255>別の目標:\n"
+"@敵のリーダーを倒す\n"
+"`(スペシャルボーナス)"
 
 #. [objective]: condition=lose
 #: data/campaigns/Heir_To_The_Throne/scenarios/02_Blackwater_Port.cfg:38
@@ -1075,6 +1078,9 @@ msgid ""
 "@Defeat all enemy leaders\n"
 "`(early finish bonus)"
 msgstr ""
+"<255,255,255>別の目標:\n"
+"@すべての敵のリーダーを倒す\n"
+"`(早期終了ボーナス)"
 
 #. [side]: type=Orcish Warrior, id=Dwaba-Kukai
 #: data/campaigns/Heir_To_The_Throne/scenarios/04_The_Bay_of_Pearls.cfg:59
@@ -1545,6 +1551,9 @@ msgid ""
 "@Defeat Muff Malal\n"
 "`(early finish bonus)"
 msgstr ""
+"<255,255,255>別の目標:\n"
+"@Muff Malalを倒す\n"
+"`(早期終了ボーナス)"
 
 #. [side]: type=Dark Sorcerer, id=Muff Malal
 #: data/campaigns/Heir_To_The_Throne/scenarios/05a_Muff_Malal_Peninsula.cfg:61
@@ -1682,11 +1691,14 @@ msgid ""
 "@Defeat all enemy leaders\n"
 "`(special bonus)"
 msgstr ""
+"<255,255,255>別の目標:\n"
+"@すべての敵のリーダーを倒す\n"
+"`(スペシャルボーナス)"
 
 #. [objectives]
 #: data/campaigns/Heir_To_The_Throne/scenarios/05b_Isle_of_the_Damned.cfg:33
 msgid "No gold carried over to the next scenario."
-msgstr ""
+msgstr "次のシナリオに持ち越すゴールドは無し"
 
 #. [part]
 #: data/campaigns/Heir_To_The_Throne/scenarios/05b_Isle_of_the_Damned.cfg:41
@@ -1783,9 +1795,8 @@ msgstr ""
 
 #. [message]: speaker=narrator
 #: data/campaigns/Heir_To_The_Throne/scenarios/05b_Isle_of_the_Damned.cfg:207
-#, fuzzy
 msgid "You receive 100 pieces of gold!"
-msgstr "300 枚の金貨を受け取りました！"
+msgstr "100 枚の金貨を受け取りました！"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/05b_Isle_of_the_Damned.cfg:216
@@ -2721,6 +2732,9 @@ msgid ""
 "@Eradicate the liches\n"
 "`(early finish bonus)"
 msgstr ""
+"<255,255,255>別の目標:\n"
+"@リッチを全滅させる\n"
+"`(早期終了ボーナス)"
 
 #. [side]: type=Lich, id=Galga
 #: data/campaigns/Heir_To_The_Throne/scenarios/09_The_Valley_of_Death.cfg:76
@@ -8520,7 +8534,6 @@ msgstr "無効の鎧"
 
 #. [value]: id=void_armor
 #: data/campaigns/Heir_To_The_Throne/utils/httt_utils.cfg:198
-#, fuzzy
 msgid ""
 "The Void Armor grants the following resistances:\n"
 "blade:  50%\n"
@@ -8530,8 +8543,8 @@ msgid ""
 msgstr ""
 "無効の鎧によって以下の防御力を得ることができる:\n"
 "斬撃:  50%\n"
-"貫通:  50%\n"
-"打撃:  50%\n"
+"貫通:  40%\n"
+"打撃:  40%\n"
 "炎:  +10%"
 
 #. [object]: id=object_scepter

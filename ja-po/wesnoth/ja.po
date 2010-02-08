@@ -13,7 +13,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth 0.8.8-CVS\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2009-09-06 18:46+0200\n"
-"PO-Revision-Date: 2010-02-08 03:10+0900\n"
+"PO-Revision-Date: 2010-02-08 15:05+0900\n"
 "Last-Translator: naoki iimura <amatubu@gmail.com>\n"
 "Language-Team: Japanese Translation Team\n"
 "MIME-Version: 1.0\n"
@@ -3604,13 +3604,13 @@ msgstr "\n終了時に持っているゴールドの全てを次のシナリオ�
 msgid ""
 "\n"
 "40% of finishing gold carried over to the next scenario."
-msgstr "\n終了時に持っているゴールドの 40% を次のシナリオに持ち越す<"
+msgstr "\n終了時に持っているゴールドの 40% を次のシナリオに持ち越す"
 
 #: data/core/macros/carryover-utils.cfg:30
 msgid ""
 "\n"
 "20% of finishing gold carried over to the next scenario."
-msgstr "\n終了時に持っているゴールドの 20% を次のシナリオに持ち越す<"
+msgstr "\n終了時に持っているゴールドの 20% を次のシナリオに持ち越す"
 
 #. [message]: speaker=narrator
 #: data/core/macros/items.cfg:39
@@ -3659,15 +3659,13 @@ msgstr "願い事はしません。"
 
 #. [option]: speaker=narrator
 #: data/core/macros/items.cfg:148
-#, fuzzy
 msgid "Take it"
-msgstr "受けた"
+msgstr "拾う"
 
 #. [option]: speaker=narrator
 #: data/core/macros/items.cfg:166
-#, fuzzy
 msgid "Leave it"
-msgstr "ユニット名変更"
+msgstr "拾わない"
 
 #. [object]: id={ID}
 #: data/core/macros/items.cfg:226
@@ -3773,7 +3771,7 @@ msgstr "マーマンだけがこの道具を使用できる！"
 
 #: data/core/macros/items.cfg:535
 msgid "Should $unit.name pick up the trident?"
-msgstr ""
+msgstr "$unit.nameはトライデントを拾いますか？"
 
 #. [object]
 #: data/core/macros/items.cfg:537
