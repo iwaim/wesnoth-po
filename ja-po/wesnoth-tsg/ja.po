@@ -1628,15 +1628,11 @@ msgstr "なぜここに留まって野営したのですか？"
 
 #. [message]: speaker=Ethiliel
 #: data/campaigns/The_South_Guard/scenarios/05_Choice_In_The_Fog.cfg:227
-#, fuzzy
 msgid ""
 "The Black River is before us. No elf, still living, has crossed it. If the "
 "undead come from across the river, then we must search for them carefully, "
 "for I know not the way."
-msgstr ""
-"私たちの前方には大きな川があるわ。エルフも、生きている者は誰もその川を渡った"
-"ことはないの。もしアンデッドが川を渉ってきたら、私たちは注意深く彼らを捜さな"
-"ければならないわ。その方法はわからないのだけれど。"
+msgstr "私たちの前方には暗黒の川があるわ。エルフも、生きている者は誰もその川を渡ったことはないの。もしアンデッドが川を渡ってきたら、私たちは注意深く彼らを捜さなければならないわ。その方法はわからないのだけれど。"
 
 #. [message]: speaker=Sir Gerrick
 #: data/campaigns/The_South_Guard/scenarios/05_Choice_In_The_Fog.cfg:232
