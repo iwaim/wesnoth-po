@@ -13,7 +13,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth 1.6.5\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2009-04-17 13:28+0200\n"
-"PO-Revision-Date: 2010-02-08 19:58+0900\n"
+"PO-Revision-Date: 2010-02-10 05:30+0900\n"
 "Last-Translator: IWAI, Masaharu <iwaim.sub@gmail.com>\n"
 "Language-Team: Japanese Translation Team\n"
 "MIME-Version: 1.0\n"
@@ -1863,17 +1863,12 @@ msgstr "精鋭竜騎士"
 
 #. [unit_type]: id=Cavalier, race=human
 #: data/core/units/humans/Loyalist_Cavalier.cfg:21
-#, fuzzy
 msgid ""
 "A triumphant sight on the battlefield, cavaliers are masters at the use of "
 "both sword and crossbow from horseback. This is fearsome when combined with "
 "their mobility; such might, and the daring deeds it fosters, are the subject "
 "of many a tale and song."
-msgstr ""
-"戦場での勝利を呼び込む精鋭竜騎士は馬上での剣とクロスボウの両方の使用法を 習得"
-"しており、彼らの投射武器は彼らの剣を免れた多くの敵に命中します。 歴史上知られ"
-"ている偉大な戦いには、彼らの勇猛さによって、戦いの流れが変わった ものがいくつ"
-"かあります。"
+msgstr "戦場での勝利を呼び込む精鋭竜騎士は馬上での剣とクロスボウの両方の使用法を習得しています。その機動力と相まって恐怖の対象となっています。その偉業は数多くの歌や物語として語り継がれています。"
 
 #. [attack]: type=pierce
 #. [attack]: type=fire
@@ -2650,16 +2645,9 @@ msgid ""
 "Though not trained for combat, they are a potent ally against magical or "
 "unnatural things."
 msgstr ""
-"一部の魔術師は、彼らの周りにある世界について学び、そして人間があまりにも 頻繁"
-"に苦しみや汚らしさの中で生きているという真実を学んだことにより、 研究人生の中"
-"に閉じこもるしかないということに気がつきます。これらの男や女は 魔術師としての"
-"人生をやめて、修道僧の聖職に加わり、彼らに与えられた技能を すべての者の利益の"
-"ために捧げます。聖職を授かる儀式の後、彼らは病気やけがを 治療しながら頻繁に世"
-"界を旅します。\n"
+"一部の魔術師は、彼らの周りにある世界について学び、そして人間があまりにも頻繁に苦しみや汚らしさの中で生きているという真実を学んだことにより、研究人生の中に閉じこもるしかないということに気がつきます。これらの男や女は 魔術師としての人生をやめて、修道僧の聖職に加わり、彼らに与えられた技能を すべての者の利益のために捧げます。聖職を授かる儀式の後、彼らは病気やけがを治療しながら頻繁に世界を旅します。\n"
 "\n"
-"戦いのためのために訓練されていないものの、彼らが強力な同盟者であるという 一人"
-"の敵がいます。必要があれば、彼らは光の力を呼び出し、致命的な状態を 取り除くで"
-"しょう。"
+"戦闘のための訓練はしていませんが、魔法や不思議な力をもつ強力な仲間です。"
 
 #. [attack]: type=arcane
 #: data/core/units/merfolk/Priestess.cfg:106

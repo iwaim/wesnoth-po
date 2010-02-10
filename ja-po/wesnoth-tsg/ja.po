@@ -12,7 +12,7 @@ msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2009-06-21 14:30+0200\n"
-"PO-Revision-Date: 2010-02-08 19:41+0900\n"
+"PO-Revision-Date: 2010-02-09 18:57+0900\n"
 "Last-Translator: IWAI, Masaharu <iwaim.sub@gmail.com>\n"
 "Language-Team: Japanese Translation Team\n"
 "MIME-Version: 1.0\n"
@@ -1059,7 +1059,6 @@ msgstr "あなたは Deoran をエルフ族の要塞の中央に移動させな�
 
 #. [objective]: condition=win
 #: data/campaigns/The_South_Guard/scenarios/03_A_Desparate_Errand.cfg:167
-#, fuzzy
 msgid "Move Deoran to the elvish city in the northern woods"
 msgstr "Deoran を北の森にあるエルフ族の都市まで移動させる"
 
@@ -1662,7 +1661,7 @@ msgstr "アンデッドの雇い主を倒しました！"
 #. [message]: speaker=Minister Hylas
 #: data/campaigns/The_South_Guard/scenarios/05_Choice_In_The_Fog.cfg:313
 msgid "No... I fear there is still much evil present. "
-msgstr "いいえ……。まだ邪悪な者がいるのではないかと心配だわ。"
+msgstr "いや……。まだ邪悪な者がいるのではないかと心配だ。"
 
 #. [message]: speaker=Deoran
 #: data/campaigns/The_South_Guard/scenarios/05_Choice_In_The_Fog.cfg:318
@@ -1728,14 +1727,10 @@ msgstr ""
 
 #. [message]: speaker=Ethiliel
 #: data/campaigns/The_South_Guard/scenarios/05_Choice_In_The_Fog.cfg:404
-#, fuzzy
 msgid ""
 "You imprisoned Mebrin!? For that you must surely pay. Speak swiftly so that "
 "we may end this parley and dispatch you quickly! We will have vengeance!"
-msgstr ""
-"あなたが Mebrin を監禁したというの！？ それがあなたが確実に償わなければならな"
-"いことよ。速く話しなさい。そうすればあなたが私服を肥やすのを終わらせ、あなた"
-"をすぐに殺すことができるわ！ 復讐よ！"
+msgstr "あなたが Mebrin を監禁したというの！？ それがあなたが確実に償わなければならないことよ。速く話しなさい。話が終わり次第、あなたをすぐに殺すことができるわ！ 復讐よ！"
 
 #. [message]: speaker=Urza Afalas
 #: data/campaigns/The_South_Guard/scenarios/05_Choice_In_The_Fog.cfg:409
@@ -1853,10 +1848,8 @@ msgstr ""
 
 #. [message]: speaker=Urza Afalas
 #: data/campaigns/The_South_Guard/scenarios/05_Choice_In_The_Fog.cfg:591
-#, fuzzy
 msgid "Then this parley is over! You may have sounded the doom of all of us!"
-msgstr ""
-"では交渉は終わりだ！ おまえは俺たち全員の破滅の音を鳴らしたかもしれない！"
+msgstr "では交渉決裂だ！ おまえは俺たち全員の破滅の音を鳴らしたかもしれない！"
 
 #. [message]: speaker=Ethiliel
 #: data/campaigns/The_South_Guard/scenarios/05_Choice_In_The_Fog.cfg:597
@@ -1867,9 +1860,8 @@ msgstr ""
 
 #. [objective]: condition=win
 #: data/campaigns/The_South_Guard/scenarios/05_Choice_In_The_Fog.cfg:612
-#, fuzzy
 msgid "Defeat Urza Afalas"
-msgstr "Urza Afalas の死"
+msgstr "Urza Afalas を倒す"
 
 #. [message]: speaker=Urza Afalas
 #. [message]: speaker=unit
@@ -1981,7 +1973,6 @@ msgstr "我々は犯罪者とアンデッドの両方を倒したのだ！"
 
 #. [message]: speaker=Deoran
 #: data/campaigns/The_South_Guard/scenarios/05_Choice_In_The_Fog.cfg:773
-#, fuzzy
 msgid ""
 "We should make haste to return to Wesnoth before the harvest. Fall arrived "
 "some time ago."
@@ -1991,25 +1982,20 @@ msgstr ""
 
 #. [message]: speaker=Ethiliel
 #: data/campaigns/The_South_Guard/scenarios/05_Choice_In_The_Fog.cfg:777
-#, fuzzy
 msgid ""
 "Do not be so hasty; great mages are no mere tricksters to be easily "
 "defeated. I fear that there are tunnels and catacombs buried beneath his "
 "fortress and that we have merely defeated a specter. If we wish to cleanse "
 "the land of his evil, we must enter the darkness and root him out from "
 "within."
-msgstr ""
-"そんなに早まらないで。偉大な魔術師は安っぽい手品師ではないのだから、そう簡単"
-"に倒すことはできないわ。彼の要塞の真下に坑道や地下墓地があって、私たちは単に"
-"亡霊を倒しただけなのではないかしら。この彼の悪に満ちた地を浄化しようと思うな"
-"ら、闇の中に入り、その中から彼を根絶しなければならないのよ。"
+msgstr "そんなに早まらないで。偉大な魔術師は安っぽい手品師ではないのだから、そう簡単に倒すことはできないわ。彼の要塞の真下に坑道や地下墓地があって、私たちは単に亡霊を倒しただけなのではないかしら。この悪しき地を浄化しようと思うなら、闇の中に入り、その中から彼を根絶しなければならないのよ。"
 
 #. [message]: speaker=Ethiliel
 #: data/campaigns/The_South_Guard/scenarios/05_Choice_In_The_Fog.cfg:781
 msgid ""
 "There are strong magical wards placed here that would prevent you from "
 "entering, but I am capable of opening them to let us all pass."
-msgstr ""
+msgstr "ここには、あなたたちが入ることができない強い魔法の空間があるわ。でも、私には皆を通らせるようにそれを開くことができるの。"
 
 #. [message]: speaker=Deoran
 #: data/campaigns/The_South_Guard/scenarios/05_Choice_In_The_Fog.cfg:786
@@ -2022,25 +2008,20 @@ msgstr ""
 msgid ""
 "Someone must take news back to Wesnoth of this new evil that lurks near our "
 "borders. Who knows how many more of these undead are hiding in the forest?"
-msgstr ""
-"誰かが Wesnoth に戻ってこの新しい悪が我々の国境近くにあるという知らせを届けな"
-"ければならないでしょう。こんなにも多くのアンデッドが森に隠れているかを知って"
-"いる者がいるでしょうか。"
+msgstr "誰かが Wesnoth に戻ってこの新しい悪が我々の国境近くにあるという知らせを届けなければならないでしょう。こんなにも多くのアンデッドが森に隠れていることは誰も知らないはずです。"
 
 #. [message]: speaker=Deoran
 #: data/campaigns/The_South_Guard/scenarios/05_Choice_In_The_Fog.cfg:794
 msgid ""
 "Go, Sir Gerrick, and take with you an escort of elves, if Ethiliel will "
 "permit it."
-msgstr ""
-"行くのだ、Gerrick 殿。そしてエルフ族の護衛を連れて行け。もし Ethiliel が許し"
-"てくれるのなら。"
+msgstr "行くのだ、Gerrick 殿。もし Ethiliel が許してくれるのならエルフ族の護衛を連れて行け。"
 
 #. [message]: speaker=Ethiliel
 #: data/campaigns/The_South_Guard/scenarios/05_Choice_In_The_Fog.cfg:798
 #, fuzzy
 msgid "Indeed I will. My kinsfolk will protect you and your message!"
-msgstr "もちろん許すわ。私の種族があなたとあなたの伝言を護るわ！"
+msgstr "もちろん許すわ。我々エルフ族があなたとあなたの伝言を護るわ！"
 
 #. [message]: speaker=Sir Gerrick
 #: data/campaigns/The_South_Guard/scenarios/05_Choice_In_The_Fog.cfg:802
@@ -2149,7 +2130,6 @@ msgstr ""
 
 #. [message]: speaker=Sir Gerrick
 #: data/campaigns/The_South_Guard/scenarios/06a_Tidings_Good_And_Ill.cfg:206
-#, fuzzy
 msgid ""
 "With the bandits and undead vanquished behind us, what foes can there be "
 "ahead? Let us hope this is a speedy journey, for the specter of winter looms."
@@ -2659,7 +2639,6 @@ msgstr ""
 
 #. [message]: speaker=Grek
 #: data/campaigns/The_South_Guard/scenarios/07a_Into_The_Depths.cfg:468
-#, fuzzy
 msgid ""
 "Go here and light the thunder fire and it will blast a back door into the "
 "lich's lair!"
@@ -2767,7 +2746,6 @@ msgstr "Mebrin！ 私のかつての恩師！ 本当にあなたなのですか�
 
 #. [message]: speaker=Mal M'Brin
 #: data/campaigns/The_South_Guard/scenarios/07a_Into_The_Depths.cfg:740
-#, fuzzy
 msgid "Eth...Ethiliel? You are here?"
 msgstr "Eth..Ethiliel？ そこにいるのはおまえなのか？"
 
@@ -2786,10 +2764,7 @@ msgid ""
 "I broke their chains. They bound me, the accursed humans. Bound me! "
 "Kidnapped me to raise undead for them. Menaced me with cold iron...ahh, the "
 "iron on my skin, it burned, it burned!"
-msgstr ""
-"我は奴らの鎖を壊してやった。奴らは我を拘束した。呪われた人間たちが。我を拘束"
-"したのだ！ アンデッドをよみがえらせるために私を誘拐した。冷たい鉄で我を脅迫し"
-"た……ああ、我が皮膚に鉄が、熱い、熱い！"
+msgstr "我は奴らの鎖を壊してやった。しかし、奴らは我を拘束した。忌まわしい人間どもが我を拘束したのだ！ アンデッドをよみがえらせるために私を誘拐した。冷たい鉄で我を脅迫した……ああ、我が皮膚に鉄が、熱い、熱い！"
 
 #. [message]: speaker=Deoran
 #: data/campaigns/The_South_Guard/scenarios/07a_Into_The_Depths.cfg:755
@@ -2863,9 +2838,7 @@ msgstr ""
 msgid ""
 "And when we were done, what would we have become? Unlife. Hungering shadows, "
 "devouring all we once cherished."
-msgstr ""
-"それで彼らを一掃したあと、私たちはどうなるというの？ 死ししてなお生。暗がりに"
-"飢え、かつて私たちが大切にしていたすべてのものを破滅させて。"
+msgstr "それで彼らを一掃したあと、私たちはどうなるというの？ 命もなく。暗がりに飢え、かつて私たちが大切にしていたすべてのものを破滅させて。"
 
 #. [message]: speaker=Ethiliel
 #: data/campaigns/The_South_Guard/scenarios/07a_Into_The_Depths.cfg:791
@@ -2881,10 +2854,7 @@ msgid ""
 "Even a mere human can see that you have become a mockery of all that you "
 "once believed in. I will destroy you and your works if it's the last thing I "
 "do!"
-msgstr ""
-"単なる一人の人間でも、おまえがかつて信じていたすべてのものをあざ笑う者になっ"
-"てしまったことがわかる。私はおまえとアンデッドを召還するおまえの仕掛けを破壊"
-"する。それが私のできる最後のことであっても！"
+msgstr "単なる一人の人間でも、おまえがかつて信じていたすべてのものをあざ笑う者になってしまったことがわかる。私はおまえとアンデッドを召還するおまえの仕掛けを破壊する。それが私のできる最後のことだ！"
 
 #. [message]: speaker=Mal M'Brin
 #: data/campaigns/The_South_Guard/scenarios/07a_Into_The_Depths.cfg:801
@@ -3547,7 +3517,6 @@ msgstr "Ithelden の本拠地"
 
 #. [objective]: condition=win
 #: data/campaigns/The_South_Guard/scenarios/09a_Vengeance.cfg:373
-#, fuzzy
 msgid "Send Ethiliel to the Great Tree and parley with Ithelden"
 msgstr "Ethiliel を大木まで移動させ、Ithelden と交渉する"
 

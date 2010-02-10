@@ -1,4 +1,4 @@
-# #-#-#-#-#  wesnoth.cpp1.po (Battle for Wesnoth VERSION)  #-#-#-#-#
+# Battle for Wesnoth 1.6.5
 # Japanese translations for Battle for Wesnoth package.
 # Copyright (C) 2005-2006 Wesnoth development team
 # This file is distributed under the same license as the Battle for Wesnoth package.
@@ -13,7 +13,7 @@ msgstr ""
 "Project-Id-Version: 1.1.7\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2009-04-17 13:29+0200\n"
-"PO-Revision-Date: 2010-02-08 19:55+0900\n"
+"PO-Revision-Date: 2010-02-11 01:04+0900\n"
 "Last-Translator: IWAI, Masaharu <iwaim.sub@gmail.com>\n"
 "Language-Team: Japanese Translation Team\n"
 "MIME-Version: 1.0\n"
@@ -506,7 +506,6 @@ msgstr "死なないで、Delfador！ どうか、あなたは生きていなけ
 
 #. [message]: speaker=unit
 #: data/campaigns/Heir_To_The_Throne/scenarios/01_The_Elves_Besieged.cfg:376
-#, fuzzy
 msgid "Ugh!"
 msgstr "うっ"
 
@@ -518,9 +517,8 @@ msgstr "ああ、なんてことだ！ 時間切れだ。彼らが援軍をつ�
 
 #. [message]: speaker=second_unit
 #: data/campaigns/Heir_To_The_Throne/scenarios/01_The_Elves_Besieged.cfg:406
-#, fuzzy
 msgid "Die, villain, die!"
-msgstr "死ね、この悪人、死ね！"
+msgstr "死ね、この悪党め、死ね！"
 
 #. [message]: speaker=second_unit
 #: data/campaigns/Heir_To_The_Throne/scenarios/01_The_Elves_Besieged.cfg:417
@@ -666,11 +664,7 @@ msgid ""
 "here long, for your survival is even more important to our cause than the "
 "strength of the port. A ship is due here in two days, surely it will be able "
 "to take you to safety."
-msgstr ""
-"うまくいけばあなたの助けを借りて敵の攻撃を防ぐことができるでしょう。しかし、"
-"あなたはここに長く留まってはいけません。我々の大儀からすれば港を守ることより"
-"もあなたが生き残ることの方が重要なのです。船は 2 日後に到着する予定で、あなた"
-"を安全なところまでお連れできるはずです。"
+msgstr "うまくいけばあなたの助けを借りて敵の攻撃を防ぐことができるでしょう。しかし、あなたはここに長く留まってはいけません。我々の大義からすれば港を守ることよりもあなたが生き残ることの方が重要なのです。船は 2 日後に到着する予定で、あなたを安全なところまでお連れできるはずです。"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/02_Blackwater_Port.cfg:180
@@ -714,13 +708,7 @@ msgid ""
 "though taking double damage in return. They are also lawful, meaning they "
 "fight better by day, and worse at night. Horsemen are unmatched on open "
 "land, though elves will serve you better in forests or rugged terrain."
-msgstr ""
-"エルフ族は強力な種族です、Konrad。通常は私の部下よりも強力だと認められます。"
-"しかし、騎手は別の点で強力です。遠くから攻撃することはできませんが、通常の 2 "
-"倍のダメージを与える突撃ができます。しかしそのかわり、倍のダメージを受けま"
-"す。彼らは「秩序」ユニットでもあり、これは、昼間は強く、夜間は弱いということ"
-"を意味します。騎手は開けている土地では無敵ですが、森やでこぼこした地形ではエ"
-"ルフ族が有利でしょう。"
+msgstr "エルフ族は強力な種族です、Konrad。通常は私の部下よりも強力だといえます。しかし、騎手は別の点で強力です。遠くから攻撃することはできませんが、通常の 2 倍のダメージを与える突撃ができます。しかしそのかわり、倍のダメージを受けます。彼らは「秩序」ユニットでもあり、これは、昼間は強く、夜間は弱いということを意味します。騎手は開けている土地では無敵ですが、森やでこぼこした地形ではエルフ族が有利でしょう。"
 
 #. [message]: speaker=Kaylan
 #: data/campaigns/Heir_To_The_Throne/scenarios/02_Blackwater_Port.cfg:207
@@ -1760,13 +1748,10 @@ msgstr ""
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/05b_Isle_of_the_Damned.cfg:175
-#, fuzzy
 msgid ""
 "Let's hope these rumors are not true! I have none of my men or gold with me! "
 "How could I defend myself?"
-msgstr ""
-"うわさが本当ではないことを祈りましょう！ 私の兵はだれもいません！ どうやって"
-"自分を守ることができるでしょう？"
+msgstr "うわさが本当ではないことを祈りましょう！兵士は誰もいなし、お金ももっていない！どうやって自分を守ればいいんでしょう？"
 
 #. [message]: speaker=Kalba
 #: data/campaigns/Heir_To_The_Throne/scenarios/05b_Isle_of_the_Damned.cfg:179
@@ -1785,13 +1770,10 @@ msgstr "Delurin"
 
 #. [message]: speaker=Delurin
 #: data/campaigns/Heir_To_The_Throne/scenarios/05b_Isle_of_the_Damned.cfg:197
-#, fuzzy
 msgid ""
 "Maybe we can make a deal! Help us defeat those evil creatures! You may use "
 "our gold reserves to lead us!"
-msgstr ""
-"私たちは協力することができるでしょう！ あの邪悪な生き物を倒すのを手伝ってくだ"
-"さい！"
+msgstr "取引しないか？あの邪悪な生き物を倒すのを手伝ってくれ！俺たちの金を使い、俺たちを引き連れてくれ！"
 
 #. [message]: speaker=narrator
 #: data/campaigns/Heir_To_The_Throne/scenarios/05b_Isle_of_the_Damned.cfg:207
@@ -1848,10 +1830,7 @@ msgstr "我々に加わってください、博識な方。あなたが助けて
 msgid ""
 "If we eradicate the undead blight on these islands, I will surely go with "
 "you. Otherwise, I plan to finish my task here before moving on."
-msgstr ""
-"この島々をを傷つけているアンデッドを全滅させることができたら、あなたとともに"
-"行きましょう。それができなければ、先へ進む前にここに残って自分の仕事を終わら"
-"せます。"
+msgstr "この島々を蝕んでいるアンデッドを全滅させることができたら、あなたとともに行きましょう。それができなければ、先へ進む前にここに残って自分の仕事を終わらせます。"
 
 #. [unit]: type=Revenant, id=Xakae
 #: data/campaigns/Heir_To_The_Throne/scenarios/05b_Isle_of_the_Damned.cfg:309
@@ -1890,7 +1869,7 @@ msgstr ""
 #: data/campaigns/Heir_To_The_Throne/scenarios/05b_Isle_of_the_Damned.cfg:457
 #: data/campaigns/Heir_To_The_Throne/scenarios/05b_Isle_of_the_Damned.cfg:515
 msgid "You regain your lost troops and $isle_damned_starting_gold gold!"
-msgstr ""
+msgstr "あなたは、はぐれていた仲間と $isle_damned_starting_gold ゴールドを取り戻した！"
 
 #. [message]: speaker=narrator
 #: data/campaigns/Heir_To_The_Throne/scenarios/05b_Isle_of_the_Damned.cfg:486
@@ -3079,7 +3058,6 @@ msgstr ""
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/10_Gryphon_Mountain.cfg:263
-#, fuzzy
 msgid "Whoa!!"
 msgstr "うわ！！"
 
@@ -3169,9 +3147,8 @@ msgstr "Gaga-Breuk"
 #. [side]
 #: data/campaigns/Heir_To_The_Throne/scenarios/11_The_Ford_of_Abez.cfg:123
 #: data/campaigns/Heir_To_The_Throne/scenarios/19c_Cliffs_of_Thoria.cfg:168
-#, fuzzy
 msgid "Monsters"
-msgstr "Monry"
+msgstr ""
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/scenarios/11_The_Ford_of_Abez.cfg:185
@@ -3257,19 +3234,13 @@ msgstr "それはどういう意味なのですか？"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/scenarios/11_The_Ford_of_Abez.cfg:229
-#, fuzzy
 msgid ""
 "I mustered men to fight against the traitor-king, and of course Asheviere "
 "too, for she was behind it all. We met them; not here, but on the road from "
 "Weldyn, at Tath. We were outnumbered, perhaps four to one. In the heat of "
 "battle, that boy, fool that he was, came charging at me, slashing wildly. I "
 "had little choice but to end his life."
-msgstr ""
-"私は反逆者の王、そしてもちろん Asheviere と戦うために兵士を集めた。彼女がすべ"
-"ての黒幕であったから。我々は彼らと戦った。この場所ではないが、Weldin からの道"
-"の途中、Tath で。我々は数で負けていた。おそらく 4 対 1 といったところだろう。"
-"戦いの途中に、あの少年は、やたらにめった切りしながら愚かにも私に突進してきた"
-"のだ。私には彼の命を絶つ以外の選択肢はほとんどなかったのだ。"
+msgstr "私は反逆者の王、そしてすべての黒幕である Asheviere と戦うために兵士を集めた。そして、この場所ではなく、Weldyn からの道の途中の Tath で彼らと戦った。我々は数で負けていた。おそらく 4 対 1 といったところだろう。戦いの途中に、あの少年は、やたらにめった切りしながら愚かにも私に突進してきたのだ。私には彼の命を絶つ以外の選択肢はほとんどなかったのだ。"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/11_The_Ford_of_Abez.cfg:233
@@ -3291,24 +3262,19 @@ msgid ""
 "With all respect, my lords, we must make haste. We have to ford the river "
 "immediately. And, look! It seems that the guard-towers on the river banks "
 "are manned!"
-msgstr ""
-"閣下、お話のところ申し訳ありませんが、私たちは急がなければいけません。私たち"
-"はすぐにこの川を渉らなければいけません。そして、見てください！ 川の土手にある"
-"見張り台に人がいるようです！"
+msgstr "閣下、お話のところ申し訳ありませんが、私たちは急がなければいけません。私たちはすぐにこの川を渡らなければいけません。そして、見てください！ 川の土手にある見張り台に人がいるようです！"
 
 #. [message]: speaker=Gaga-Breuk
 #: data/campaigns/Heir_To_The_Throne/scenarios/11_The_Ford_of_Abez.cfg:246
 msgid ""
 "Look! Some of the southerners, men of Wesnoth, are trying to cross into our "
 "lands! We will slaughter them by the river's edge!"
-msgstr ""
-"見ろ！ 南の者たち、Wesnoth の軍が我々の地に渉ってこようとしている！ 我々は彼"
-"らを川岸で倒すだろう！"
+msgstr "見ろ！ 南の者たち、Wesnoth の軍が我々の地に渡ってこようとしている！ 我々は彼らを川岸で倒すだろう！"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/11_The_Ford_of_Abez.cfg:250
 msgid "Isn't there somewhere else we can cross? Maybe upstream?"
-msgstr "渉ることができる他の場所はないのですか？ おそらく上流にはあるのでは？"
+msgstr "渡ることができる他の場所はないのですか？ おそらく上流にはあるのでは？"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/scenarios/11_The_Ford_of_Abez.cfg:254
@@ -3318,22 +3284,14 @@ msgid ""
 "river when winter arrives would be suicide. Asheviere would have us trapped "
 "like rats! Look to the west! Asheviere has a border fort, and it seems to be "
 "full of soldiers! We must cross here, and quickly!"
-msgstr ""
-"冬が足早にせまってきている。川を渉るのには数日間しかなく、最も近くの橋は遥か"
-"上流だ。冬が来たときに川の南側で足止めされているのは自殺行為だ。Asheviere は"
-"ネズミでも捕らえるかのように我々を捕らえるだろう！ 西側を見るのだ！ "
-"Asheviere は北との境界に砦を築いていて、その中は兵士でいっぱいのようだ！ 我々"
-"はは急いでここを渉らなければならない！"
+msgstr "冬が足早にせまってきている。川を渡るのには数日間しかなく、最も近くの橋は遥か上流だ。冬が来たときに川の南側で足止めされているのは自殺行為だ。Asheviere はネズミでも捕らえるかのように我々を捕らえるだろう！ 西側を見るのだ！ Asheviere は北との境界に砦を築いていて、その中は兵士でいっぱいのようだ！ 我々はは急いでここを渡らなければならない！"
 
 #. [message]: speaker=Li'sar
 #: data/campaigns/Heir_To_The_Throne/scenarios/11_The_Ford_of_Abez.cfg:258
 msgid ""
 "There they are! So it is true, they foiled the undead. Now they are trying "
 "to leave Wesnoth. We can't let them cross the river. After them, men!"
-msgstr ""
-"彼らを見つけたわ！ 彼らがアンデッドを食い止めたというのは本当だったのね。彼ら"
-"は Wesnoth を離れようとしています。川を渉らせるわけにはいきません。兵士たち、"
-"彼らを追うのです！"
+msgstr "彼らを見つけたわ！ 彼らがアンデッドを食い止めたというのは本当だったのね。彼らは Wesnoth を離れようとしています。川を渡らせるわけにはいきません。兵士たち、彼らを追うのです！"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/11_The_Ford_of_Abez.cfg:269
@@ -3386,18 +3344,15 @@ msgstr "あれはなんですか？"
 msgid ""
 "Creatures of the deep are upon us! This may be very dangerous. Be quick! We "
 "must get to the other side with all haste!"
-msgstr ""
-"深海の生き物が近づいています！ これはとても危険です。急ぎましょう！ 大急ぎで"
-"向こう岸に渉らなければいけません！"
+msgstr "深海の生き物が近づいています！ これはとても危険です。急ぎましょう！ 大急ぎで向こう岸に渡らなければいけません！"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/11_The_Ford_of_Abez.cfg:409
 msgid "We made it across the river safely! Where to now?"
-msgstr "無事に川を渉ることができました！ さて、どこへ向かいますか？"
+msgstr "無事に川を渡ることができました！ さて、どこへ向かいますか？"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/scenarios/11_The_Ford_of_Abez.cfg:414
-#, fuzzy
 msgid ""
 "If we are to have any hope of penetrating into Knalga, we must continue "
 "north to seek help from the Dwarves of the Heart Mountains in the north."
@@ -3410,10 +3365,7 @@ msgstr ""
 msgid ""
 "I cannot believe it. They have made it away! We must make chase. After them, "
 "men! Let us cross the river too! We will meet again, foul impostor."
-msgstr ""
-"信じられない。彼らは川を渉ってしまったわ！ 私たちは追わなければいけません。兵"
-"士たち、彼らを追うのです！ 私たちも川を渉りましょう！ 邪悪な詐欺師さん、また"
-"会いましょう！"
+msgstr "信じられない。彼らは川を渡ってしまったわ！ 私たちは追わなければいけません。兵士たち、彼らを追うのです！ 私たちも川を渡りましょう！ 邪悪な詐欺師さん、また会いましょう！"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/11_The_Ford_of_Abez.cfg:430
@@ -3426,11 +3378,7 @@ msgid ""
 "It surely looks like she will try. But many more creatures than we have "
 "fought lurk in this river; that will make it difficult for her. We must "
 "continue onward. If she makes it across before winter, then so be it!"
-msgstr ""
-"確実に我々を追おうとするだろう。しかしこの川には我々が戦ったよりもより多くの"
-"生き物が隠れている。そのため彼女が我々を追うことは難しくなるだろう。我々は前"
-"進し続けなければならない。冬がくる前に彼女が渉ることができたとしたら、そのと"
-"きは受けて立とう！"
+msgstr "確実に我々を追おうとするだろう。しかしこの川には我々が戦ったよりもより多くの生き物が隠れている。そのため彼女が我々を追うことは難しくなるだろう。我々は前進し続けなければならない。冬がくる前に彼女が渡ることができたとしたら、そのときは受けて立とう！"
 
 #. [scenario]: id=12_Northern_Winter
 #: data/campaigns/Heir_To_The_Throne/scenarios/12_Northern_Winter.cfg:4
@@ -3443,10 +3391,7 @@ msgid ""
 "Across the river were lands few humans had ever visited. The occasional "
 "distant thutter of orcish signal drums made the abundant pine forests "
 "nestled in rolling foothills both breathtaking and ominous."
-msgstr ""
-"川を渉った先は、これまで人間がほとんど訪れたことのない場所でした。オーク族の"
-"太鼓の音が時折遠くで鳴り響き、そのせいで、なだらかな山麓の丘に生えているたく"
-"さんの松の木の森が恐ろしく、不気味なものに感じられました。"
+msgstr "川を渡った先は、これまで人間がほとんど訪れたことのない場所でした。オーク族の太鼓の音が時折遠くで鳴り響き、そのせいで、なだらかな山麓の丘に生えているたくさんの松の木の森が恐ろしく、不気味なものに感じられました。"
 
 #. [part]
 #: data/campaigns/Heir_To_The_Throne/scenarios/12_Northern_Winter.cfg:51
@@ -3521,12 +3466,7 @@ msgid ""
 "but it is not to be. Our soldiers will begin to desert if they do not rest "
 "soon. But in these wild north lands, we must fight even for the right to "
 "rest. Look to the north! Those foul orcs will not allow us any peace!"
-msgstr ""
-"Kalenz よ、彼らの言うとおりだ。1 ヶ月以内に笏を手に入れたいと思っていたが、そ"
-"れはできないようだ。すぐに休まなければ、我々の兵士たちは逃亡し始めるだろう。"
-"しかしこの荒れ果てた北の地においては、休む権利のためでさえも戦わなければなら"
-"ない。北の方を見よ！ あの邪悪なオークたちが我々を平穏でいさせてくれることはな"
-"いだろう！"
+msgstr "Kalenz よ、彼らの言うとおりだ。1 ヶ月以内に笏を手に入れたいと思っていたが、それはできないようだ。すぐに休まなければ、我々の兵士たちは逃亡し始めるだろう。しかしこの荒れ果てた北の地においては、休む権利ですら戦いで勝ち取らねばならない。北の方を見よ！ あの邪悪なオークたちが我々を平穏でいさせてくれることはないだろう！"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/12_Northern_Winter.cfg:172
