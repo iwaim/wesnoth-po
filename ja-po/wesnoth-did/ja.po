@@ -2,15 +2,16 @@
 # Copyright (C) 2008 Wesnoth development team
 # This file is distributed under the same license as the Battle for Wesnoth package.
 #
-# Shigerello <shigerello_wesnoth@mac.com> 2008.
+# Shigerello <shigerello_wesnoth@mac.com>, 2008.
+# IWAI, Masaharu <iwaim.sub@gmail.com>, 2010.
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2009-03-20 00:46+0100\n"
-"PO-Revision-Date: 2008-05-14 03:34+0900\n"
-"Last-Translator: Shigerello <shigerello_wesnoth@mac.com>\n"
+"PO-Revision-Date: 2010-02-13 12:11+0900\n"
+"Last-Translator: IWAI, Masaharu <iwaim.sub@gmail.com>\n"
 "Language-Team: Japanese Translation Team\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -59,14 +60,13 @@ msgstr "サモナー"
 
 #. [campaign]: id=Descent_Into_Darkness
 #: data/campaigns/Descent_Into_Darkness/_main.cfg:22
-#, fuzzy
 msgid ""
 "Learn the dark arts of necromancy in order to save your people from an "
 "orcish incursion.\n"
 "\n"
 "(Intermediate level, 11 scenarios.)\n"
 msgstr ""
-"オークによる侵攻から民を守る為、死霊術の闇のすべを学ぶのだ。\n"
+"オークによる侵攻から民を守る為、死霊術の闇の技を学ぶのだ。\n"
 "\n"
 "（上級者レベル、11 シナリオ）\n"
 
@@ -99,7 +99,6 @@ msgstr "Parthyn の防衛"
 
 #. [part]
 #: data/campaigns/Descent_Into_Darkness/scenarios/01_Saving_Parthyn.cfg:19
-#, fuzzy
 msgid ""
 "Malin Keshar was born 10 years after the death of Haldric IV. He grew up in "
 "the northern border town of Parthyn, the second child and eldest son of the "
@@ -294,7 +293,7 @@ msgstr ""
 #. [message]: speaker=narrator
 #: data/campaigns/Descent_Into_Darkness/scenarios/01_Saving_Parthyn.cfg:182
 msgid "Several weeks pass..."
-msgstr "数週間が過ぎ…"
+msgstr "数週間が過ぎ……"
 
 #. [message]: speaker=Drogan
 #: data/campaigns/Descent_Into_Darkness/scenarios/01_Saving_Parthyn.cfg:187
@@ -330,7 +329,6 @@ msgstr "いったい全体、何なんだそれは？死霊術師が戻って来
 
 #. [message]: speaker=Malin Keshar
 #: data/campaigns/Descent_Into_Darkness/scenarios/01_Saving_Parthyn.cfg:213
-#, fuzzy
 msgid ""
 "No, Drogan. I raised this corpse with the skills Darken Volk taught to me "
 "before he left. While I have no love for it, without the help of the dead we "
@@ -360,7 +358,7 @@ msgid ""
 "No! No...it was nothing like that...but I will not stand by and allow the "
 "orcs to destroy my home while I have the skills to prevent it!"
 msgstr ""
-"違う！違うんだ…そんなんじゃない…だけど僕は、防ぐ力を持っているのに何もせず、"
+"違う！違うんだ……そんなんじゃない……だけど僕は、防ぐ力を持っているのに何もせず、"
 "オーク共が故郷を破壊し尽くすのをみすみす許すのなんて嫌なんだ！"
 
 #. [message]: speaker=narrator
@@ -431,7 +429,7 @@ msgid ""
 "father would be ashamed to see the end to which you've come."
 msgstr ""
 "立ち去れ、今すぐに。私としても無理に兵を放ってお前を追わせたくはない。お前の"
-"成れの果てを知って、お父上もお嘆きになることだろう…"
+"成れの果てを知って、お父上もお嘆きになることだろう……"
 
 #. [message]: speaker=Drogan
 #: data/campaigns/Descent_Into_Darkness/scenarios/01_Saving_Parthyn.cfg:323
@@ -1882,7 +1880,7 @@ msgstr ""
 #: data/campaigns/Descent_Into_Darkness/scenarios/11_Descent_into_Darkness.cfg:325
 #, fuzzy
 msgid "I'm ready. Do it."
-msgstr "まだ死にたくない…"
+msgstr "まだ死にたくない……"
 
 #. [message]: speaker=narrator
 #: data/campaigns/Descent_Into_Darkness/scenarios/11_Descent_into_Darkness.cfg:361
@@ -2260,7 +2258,7 @@ msgstr ""
 #. [message]: speaker=unit
 #: data/campaigns/Descent_Into_Darkness/utils/deaths.cfg:12
 msgid "I'm not ready to die..."
-msgstr "まだ死にたくない…"
+msgstr "まだ死にたくない……"
 
 #. [message]: speaker=unit
 #: data/campaigns/Descent_Into_Darkness/utils/deaths.cfg:28
