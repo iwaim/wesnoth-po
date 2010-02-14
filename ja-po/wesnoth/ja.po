@@ -12,7 +12,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth 1.6.5\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2009-09-06 18:46+0200\n"
-"PO-Revision-Date: 2010-02-13 08:30+0900\n"
+"PO-Revision-Date: 2010-02-14 04:47+0900\n"
 "Last-Translator: IWAI, Masaharu <iwaim.sub@gmail.com>\n"
 "Language-Team: Japanese Translation Team\n"
 "MIME-Version: 1.0\n"
@@ -2917,9 +2917,8 @@ msgstr "治療"
 
 #. [heals]: id=curing
 #: data/core/macros/abilities.cfg:52
-#, fuzzy
 msgid "female^cures"
-msgstr "勇敢"
+msgstr "治療"
 
 #. [heals]: id=curing
 #: data/core/macros/abilities.cfg:54

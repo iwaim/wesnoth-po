@@ -3,14 +3,15 @@
 # Automatically generated, 2005.
 # Taigaku Okuiso, 2005.
 # Nobuhito Okada <okyada@gmail.com>, 2006.
+# IWAI, Masaharu <iwaim.sub@gmail.com>, 2010.
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2009-03-26 12:26+0100\n"
-"PO-Revision-Date: 2008-12-23 19:00+0900\n"
-"Last-Translator:  <P2295417919104729@hotmail.co.jp>\n"
+"PO-Revision-Date: 2010-02-15 01:27+0900\n"
+"Last-Translator: IWAI, Masaharu <iwaim.sub@gmail.com>\n"
 "Language-Team: Japanese Translation Team\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -240,7 +241,6 @@ msgstr "Gorokh"
 
 #. [message]: speaker=Fal Khag
 #: data/campaigns/Liberty/scenarios/01_The_Raid.cfg:192
-#, fuzzy
 msgid ""
 "I long to burn human cities, but until our great chieftains provide us with "
 "sufficient forces we must look to these villagers to feed our wolves and "
@@ -255,8 +255,7 @@ msgstr ""
 msgid ""
 "Ride, you worms, I want to finish our raid before the hunting party returns "
 "to the human village."
-msgstr ""
-"乗れ、雑魚ども！ 狩りの集団が人間の村に戻ってくるまでに襲撃を終えるぞ。"
+msgstr "乗れ、野郎ども！ 狩りの集団が人間の村に戻ってくるまでに襲撃を終えるぞ。"
 
 #. [event]
 #: data/campaigns/Liberty/scenarios/01_The_Raid.cfg:205
@@ -323,7 +322,6 @@ msgstr ""
 
 #. [message]: speaker=Harper
 #: data/campaigns/Liberty/scenarios/01_The_Raid.cfg:241
-#, fuzzy
 msgid ""
 "That goblin leader is heading full-speed straight for Dallben. But we'll "
 "need to chase them all down if we're going to stop them."
@@ -333,14 +331,10 @@ msgstr ""
 
 #. [message]: speaker=Baldras
 #: data/campaigns/Liberty/scenarios/01_The_Raid.cfg:245
-#, fuzzy
 msgid ""
 "Do it. Try to hold them back until us old-timers can get there and finish "
 "them off."
-msgstr ""
-"そうしてくれ。わしら年上の者が追いついてやつを仕留めるまで、うまく引き付けて"
-"みてくれや。リーダーの注意を逸らすことができれば、他のやつらはうろたえるよう"
-"な気がするよ。"
+msgstr "そうしてくれ。わしら年配の者が追いついてやつを仕留めるまで、うまく引き付けてみてくれや。"
 
 #. [message]: speaker=Baldras
 #: data/campaigns/Liberty/scenarios/01_The_Raid.cfg:249
@@ -417,11 +411,8 @@ msgstr "Jasken"
 
 #. [message]: speaker=Wolmas
 #: data/campaigns/Liberty/scenarios/01_The_Raid.cfg:342
-#, fuzzy
 msgid "What's happening here? Why are you running like mad, $unit.name|?"
-msgstr ""
-"何が起こった？ なんでそんなにあわてて走ってくるんだ、 $unit."
-"user_description| ？"
+msgstr "何が起こった？ なんでそんなにあわてて走ってくるんだ、 $unit.name| ？"
 
 #. [message]: speaker=unit
 #: data/campaigns/Liberty/scenarios/01_The_Raid.cfg:346
@@ -474,7 +465,7 @@ msgstr "市民の反抗"
 #: data/campaigns/Liberty/scenarios/02_Civil_Disobedience.cfg:69
 #: data/campaigns/Liberty/scenarios/07_The_Hunters.cfg:50
 msgid "Rebels"
-msgstr ""
+msgstr "Rebels"
 
 #. [side]: type=Cavalier, id=Tarwen
 #: data/campaigns/Liberty/scenarios/02_Civil_Disobedience.cfg:47
@@ -664,7 +655,6 @@ msgstr "Relnan の死"
 
 #. [message]: speaker=Baldras
 #: data/campaigns/Liberty/scenarios/03_A_Strategy_Of_Hope.cfg:165
-#, fuzzy
 msgid ""
 "Relnan, thank you for welcoming our messenger and agreeing to meet with us. "
 "In your many years as Delwyn's magistrate I have never known your judgment "
@@ -1386,15 +1376,11 @@ msgstr ""
 
 #. [message]: speaker=narrator
 #: data/campaigns/Liberty/scenarios/06_The_Gray_Woods.cfg:317
-#, fuzzy
 msgid ""
 "The remaining members were very grateful and offered Baldras a sizable sum "
 "of gold for his help. It was not the help he was hoping for, but he knew it "
 "would have to be enough for the coming conflict."
-msgstr ""
-"残ったメンバーは Baldras に感謝し、手助けとしてかなりの量の金を差し出しまし"
-"た。それは期待していた助けではありませんでしたが、来たるべき闘争にはそれでな"
-"んとかしなければなりませんでした。"
+msgstr "残ったメンバーは Baldras に感謝し、手助けとしてかなりの量の金を差し出しました。それは期待していた助けではありませんでしたが、来たるべき闘争にはそれでなんとかしなければなりませんでした。"
 
 #. [message]: speaker=Helicrom
 #: data/campaigns/Liberty/scenarios/06_The_Gray_Woods.cfg:336
@@ -1416,15 +1402,11 @@ msgstr ""
 
 #. [message]: speaker=Helicrom
 #: data/campaigns/Liberty/scenarios/06_The_Gray_Woods.cfg:344
-#, fuzzy
 msgid ""
 "No one here is in a position to be dispensing moral judgments. Regardless, "
 "you have done great service to us today, and we owe you a debt. I will help "
 "you to the utmost of my ability."
-msgstr ""
-"ここにいるものは道徳的な判断をする立場にない。とにかく、あなたが今日ここで"
-"行ったことの価値を過大評価することもできない。私は能力の及ぶ限りあなたを助け"
-"よう。"
+msgstr "ここにいるものは道徳的な判断をする立場にない。とにかく、あなたが今日我々にとって多大な貢献をしてくれたことは間違いない。これは借りだ。私は能力の及ぶ限りあなたを助けよう。"
 
 #. [message]: speaker=Helicrom
 #: data/campaigns/Liberty/scenarios/06_The_Gray_Woods.cfg:348
@@ -1482,9 +1464,7 @@ msgstr ""
 #. [message]: speaker=Helicrom
 #: data/campaigns/Liberty/scenarios/06_The_Gray_Woods.cfg:391
 msgid "Done. My finest mages and thieves are at your disposal. Use them well."
-msgstr ""
-"よし。配下の中でも腕利きの魔術師と泥棒を自由に使って構わん。うまく活用してく"
-"れ。"
+msgstr "よし。配下の中でも腕利きの魔術師と盗賊を自由に使って構わん。うまく活用してくれ。"
 
 #. [option]: speaker=Helicrom
 #: data/campaigns/Liberty/scenarios/06_The_Gray_Woods.cfg:405
@@ -1534,13 +1514,10 @@ msgstr ""
 
 #. [part]
 #: data/campaigns/Liberty/scenarios/07_The_Hunters.cfg:30
-#, fuzzy
 msgid ""
 "Knowing they too would be labeled criminals, he reluctantly accepted their "
 "help. (Baldras is now able to recruit outlaws.)"
-msgstr ""
-"彼らも犯罪者のレッテルを貼られていると知り、Baldras は不本意ながらも彼らの助"
-"けを受け入れました。Baldras は現在、無法者を雇用することができます。"
+msgstr "彼らも犯罪者のレッテルを貼られていると知り、Baldras は不本意ながらも彼らの助けを受け入れました。(Baldras は無法者を雇用することができるようになった)"
 
 #. [part]
 #: data/campaigns/Liberty/scenarios/07_The_Hunters.cfg:33
@@ -1604,7 +1581,6 @@ msgstr ""
 
 #. [message]: speaker=Baldras
 #: data/campaigns/Liberty/scenarios/07_The_Hunters.cfg:158
-#, fuzzy
 msgid ""
 "The garrison. The towers of Halstead are more than a garrison, nephew, they "
 "are a fortress. They used to protect this area from the enemies of Wesnoth; "
@@ -1631,7 +1607,6 @@ msgstr "おじさん、彼は Elense の紋章を身に着けている。応え�
 
 #. [message]: speaker=Baldras
 #: data/campaigns/Liberty/scenarios/07_The_Hunters.cfg:176
-#, fuzzy
 msgid "Rider, hush before we are discovered! Come to us, but quietly!"
 msgstr "騎手よ、静かにするんだ、見つかる前に！ 早くこっちへ来い。"
 
@@ -2073,7 +2048,6 @@ msgstr ""
 
 #. [message]: speaker=Dommel
 #: data/campaigns/Liberty/scenarios/08_Glory.cfg:636
-#, fuzzy
 msgid "They have breached the fortress gate! Repulse them!"
 msgstr "城門を破られた！ 撃退せよ！"
 
@@ -2157,9 +2131,8 @@ msgstr "この犠牲が無駄ではないと願おう……わしらはそれを
 
 #. [message]: speaker=Baldras
 #: data/campaigns/Liberty/scenarios/08_Glory.cfg:876
-#, fuzzy
 msgid "Our dream of freedom... gone... Unngh."
-msgstr "自由への夢……潰えてしまった……うぅぐ。"
+msgstr "自由への夢が……潰えてしまった……うぅぐ。"
 
 #. [message]: speaker=Harper
 #: data/campaigns/Liberty/scenarios/08_Glory.cfg:894
@@ -2230,9 +2203,7 @@ msgstr "おまえは……見くびっている……女王の残虐さと野心
 msgid ""
 "Small victory? Bah! Now we will raze this fortress and bury it in the earth "
 "from whence it came."
-msgstr ""
-"小さい勝利だと？ はっ！ わしらはこの要塞を破壊し、その出で来た大地へと葬り去"
-"るつもりだぞ。"
+msgstr "小さい勝利だと？ はっ！ わしらはこの要塞を破壊し、建設前の大地へかえすつもりだぞ。"
 
 #. [scenario]: id=epilog
 #: data/campaigns/Liberty/scenarios/09_Epilog.cfg:4
@@ -2345,13 +2316,10 @@ msgstr ""
 
 #. [part]
 #: data/campaigns/Liberty/scenarios/09_Epilog.cfg:44
-#, fuzzy
 msgid ""
 "'If you wish to find us, head southwest. When you reach the land's end, just "
 "keep going. See you in the Three Sisters, old friend. - Relnan' "
-msgstr ""
-"「もしおれたちを見つけたければ、南西に向かえ。地の果てに達してもそのまま進み"
-"続けろ。近いうちに会おう、旧友よ。 - Relnan」"
+msgstr "「もし俺たちに会いたくば、南西に向かえ。地の果てに達してもそのまま進み続けろ。Three Sistersで会おう、旧友よ。 - Relnan」"
 
 #. [unit_type]: id=Bone Knight, race=undead
 #: data/campaigns/Liberty/units/Bone_Knight.cfg:5
@@ -2510,9 +2478,8 @@ msgstr ""
 
 #. [unit_type]: id=Thug_Peasant
 #: data/campaigns/Liberty/units/Villagers.cfg:16
-#, fuzzy
 msgid "Villager"
-msgstr "村の年長者"
+msgstr "村人"
 
 #. [unit_type]: id=Thug_Peasant
 #: data/campaigns/Liberty/units/Villagers.cfg:19
@@ -2603,7 +2570,7 @@ msgid ""
 "these borderers are not trained and armed to up to military standards, their "
 "native toughness and knowledge of local conditions make them formidable on "
 "their home ground."
-msgstr ""
+msgstr "辺境の村では、外敵を防ぐための専任の民兵をおきます。辺境人は訓練されておらず、正規軍の武具で武装してもいません。しかしながら生まれもった強靭さや、居住地域でのその状況に応じた知識は侮り難いものです。"
 
 #. [female]
 #: data/campaigns/Liberty/units/Villagers.cfg:100

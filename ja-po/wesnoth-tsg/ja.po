@@ -12,7 +12,7 @@ msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2009-06-21 14:30+0200\n"
-"PO-Revision-Date: 2010-02-09 18:57+0900\n"
+"PO-Revision-Date: 2010-02-15 02:41+0900\n"
 "Last-Translator: IWAI, Masaharu <iwaim.sub@gmail.com>\n"
 "Language-Team: Japanese Translation Team\n"
 "MIME-Version: 1.0\n"
@@ -824,7 +824,7 @@ msgid ""
 "We will do our best to hold the city - you lead your men across the river "
 "and kill the bandit leader!"
 msgstr ""
-"我々は都市を守るために最善を尽くします。あなたは兵を率いて川を渉り、山賊の"
+"我々は都市を守るために最善を尽くします。あなたは兵を率いて川を渡り、山賊の"
 "リーダーを殺してください！"
 
 #. [objective]: condition=win
@@ -1198,7 +1198,7 @@ msgid ""
 msgstr ""
 "ご婦人、我々は教えを乞うためにエルフ族のもとにやってきたのです。山賊や犯罪者"
 "が我々の地で死者を召還し、我々の農地や村から略奪するために使っているのです。"
-"彼らは我々の地の南に位置する広大な森から川を渉ってやってきています。その森"
+"彼らは我々の地の南に位置する広大な森から川を渡ってやってきています。その森"
 "は、人間はだれも誰も足を踏み入れたことのない場所なのです。"
 
 #. [message]: speaker=Ethiliel
@@ -2421,7 +2421,7 @@ msgid ""
 "From here you can see the banks of the river! Across it we will find the sun "
 "again, and an end to these cursed trees!"
 msgstr ""
-"ここから川の浅瀬が見えるだろう！ そこを渉れば再び太陽を拝むことができるだろ"
+"ここから川の浅瀬が見えるだろう！ そこを渡れば再び太陽を拝むことができるだろ"
 "う。そしてこの呪われた森ともおさらばだ！"
 
 #. [message]: race=elf
@@ -3814,7 +3814,7 @@ msgid ""
 "named Deoran. Deoran was the son of Haldiel, who had fought with distinction "
 "alongside Konrad I in the wars against the orcs. The King had a mission for "
 "Haldiel's son."
-msgstr "Haldric 王は、Deoran という名の若く平凡だが前途有望な騎馬隊の将校を呼び出した。彼は オーク族との戦いで Konrad I 世とともに戦い手柄を立てた Haldiel の息子であった。王は彼に任務を与えるつもりなのだ。"
+msgstr "Haldric 王は、Deoran という名の若く平凡だが前途有望な騎馬隊の将校を呼び出した。彼は オーク族との戦いで Konrad I 世とともに戦い、手柄を立てた Haldiel の息子であった。王は彼に任務を与えるつもりなのだ。"
 
 #. [part]
 #: data/campaigns/The_South_Guard/utils/sg_story.cfg:37
