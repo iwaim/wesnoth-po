@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2009-02-02 07:59+0100\n"
-"PO-Revision-Date: 2010-02-14 21:14+0900\n"
+"PO-Revision-Date: 2010-02-19 20:32+0900\n"
 "Last-Translator: IWAI, Masaharu <iwaim.sub@gmail.com>\n"
 "Language-Team: Japanese Translation Team\n"
 "MIME-Version: 1.0\n"
@@ -264,7 +264,7 @@ msgstr "奴等をみろ。大きくてノロマ、弓矢ももてないほど不
 #. [message]: race=elf
 #: data/campaigns/An_Orcish_Incursion/scenarios/1_Defend_the_Forest.cfg:164
 msgid "It's hopeless; we've tried everything, and they're still coming back."
-msgstr ""
+msgstr "絶望的です。我々は最善を尽くしましたが、奴等はまた戻ってくるでしょう。"
 
 #. [message]: id=Urugha
 #: data/campaigns/An_Orcish_Incursion/scenarios/1_Defend_the_Forest.cfg:168
@@ -298,12 +298,12 @@ msgstr ""
 #. [message]: id=Erlornas
 #: data/campaigns/An_Orcish_Incursion/scenarios/1_Defend_the_Forest.cfg:194
 msgid "Ugh..."
-msgstr ""
+msgstr "うぐっ……"
 
 #. [message]: id=Urugha
 #: data/campaigns/An_Orcish_Incursion/scenarios/1_Defend_the_Forest.cfg:198
 msgid "Finally! Got him!"
-msgstr ""
+msgstr "やったぞ！奴は死んだ！"
 
 #. [message]: race=elf
 #: data/campaigns/An_Orcish_Incursion/scenarios/1_Defend_the_Forest.cfg:205
@@ -313,14 +313,14 @@ msgstr "閣下！"
 #. [message]: id=Erlornas
 #: data/campaigns/An_Orcish_Incursion/scenarios/1_Defend_the_Forest.cfg:209
 msgid "Take...command... Drive them...away."
-msgstr ""
+msgstr "お、お前が……指揮を……や、奴等を……追い払うのだ……"
 
 #. [message]: speaker=narrator
 #: data/campaigns/An_Orcish_Incursion/scenarios/1_Defend_the_Forest.cfg:213
 msgid ""
 "Lord Erlornas died the day he first fought the orcs and never saw the end of "
 "the war. Given its final outcome, this was perhaps for the best."
-msgstr ""
+msgstr "最初にオーク族と戦った Erlornas 卿はその日に死んでしまいました。最終的な結果を考えると、以後の戦いに加わる必要がなかったという意味では、その方が良かったかも知れません。"
 
 #. [message]: speaker=unit
 #: data/campaigns/An_Orcish_Incursion/scenarios/1_Defend_the_Forest.cfg:225
@@ -934,15 +934,13 @@ msgstr ""
 
 #. [objectives]
 #: data/campaigns/An_Orcish_Incursion/scenarios/5_Linaera_the_Quick.cfg:106
-#, fuzzy
 msgid ""
 "Hint:\n"
 "Use Elven Scouts and Linaera's power of teleportation to mount hit and run "
 "attacks."
 msgstr ""
 "ヒント：\n"
-"この敵は強すぎて単独で破る事はできません。準備されたユニットを使うとよいで"
-"しょう。そして、Linaera の瞬間移動は奇襲攻撃の力です。"
+"エルフの斥候と瞬間移動の力をもつ Linaera を使い、敵に一気に近づいて攻撃を仕掛けましょう。"
 
 #. [objective]: condition=win
 #: data/campaigns/An_Orcish_Incursion/scenarios/5_Linaera_the_Quick.cfg:112

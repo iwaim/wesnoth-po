@@ -12,7 +12,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth 1.6.5\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2009-09-06 18:46+0200\n"
-"PO-Revision-Date: 2010-02-14 04:47+0900\n"
+"PO-Revision-Date: 2010-02-16 00:52+0900\n"
 "Last-Translator: IWAI, Masaharu <iwaim.sub@gmail.com>\n"
 "Language-Team: Japanese Translation Team\n"
 "MIME-Version: 1.0\n"
@@ -3567,7 +3567,7 @@ msgstr "早期終了ボーナス"
 
 #: data/core/macros/carryover-utils.cfg:12
 msgid "No early finish bonus."
-msgstr ""
+msgstr "早期終了ボーナスは無し"
 
 #: data/core/macros/carryover-utils.cfg:15
 msgid "`(early finish bonus)"

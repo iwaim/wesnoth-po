@@ -13,7 +13,7 @@ msgstr ""
 "Project-Id-Version: 1.1.7\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2009-04-17 13:29+0200\n"
-"PO-Revision-Date: 2010-02-13 12:01+0900\n"
+"PO-Revision-Date: 2010-02-17 06:36+0900\n"
 "Last-Translator: IWAI, Masaharu <iwaim.sub@gmail.com>\n"
 "Language-Team: Japanese Translation Team\n"
 "MIME-Version: 1.0\n"
@@ -5733,7 +5733,7 @@ msgstr "川の終点までたどり着く"
 #: data/campaigns/Heir_To_The_Throne/scenarios/19c_Cliffs_of_Thoria.cfg:136
 #: data/campaigns/Heir_To_The_Throne/scenarios/20b_Underground_Channels.cfg:83
 msgid "Drakes"
-msgstr ""
+msgstr "Drakes"
 
 #. [unit]: type=Injured Sergeant, id=Warven
 #: data/campaigns/Heir_To_The_Throne/scenarios/19c_Cliffs_of_Thoria.cfg:264
@@ -6182,6 +6182,8 @@ msgid ""
 "<255,255,255>Optional objective:\n"
 "@Rescue the sergeant"
 msgstr ""
+"<255,255,255>別の目標:\n"
+"@軍曹を救出する"
 
 #. [message]: speaker=Warven
 #: data/campaigns/Heir_To_The_Throne/scenarios/19c_Cliffs_of_Thoria.cfg:1127
@@ -6343,7 +6345,7 @@ msgstr "メモ: あなたの宿営地は最初のターンが終わると取り�
 #: data/campaigns/Heir_To_The_Throne/scenarios/20a_North_Elves.cfg:53
 #: data/campaigns/Heir_To_The_Throne/scenarios/20a_North_Elves.cfg:189
 msgid "Allies"
-msgstr ""
+msgstr "Allies"
 
 #. [side]: type=Orcish Warlord, id=Kior-Dal
 #: data/campaigns/Heir_To_The_Throne/scenarios/20a_North_Elves.cfg:68
@@ -6395,7 +6397,7 @@ msgstr ""
 #. [unit]: id=Telerandor, type=Elvish Rider
 #: data/campaigns/Heir_To_The_Throne/scenarios/20a_North_Elves.cfg:376
 msgid "Telerandor"
-msgstr ""
+msgstr "Telerandor"
 
 #. [message]: speaker=Telerandor
 #. [message]: speaker=Glarilon
@@ -8191,7 +8193,7 @@ msgstr "笏"
 #. [attack]: type=cold
 #: data/campaigns/Heir_To_The_Throne/units/Dark_Queen.cfg:32
 msgid "raging blizzard"
-msgstr ""
+msgstr "猛烈な吹雪"
 
 #. [unit_type]: id=Fighter, race=human
 #: data/campaigns/Heir_To_The_Throne/units/Fighter.cfg:18

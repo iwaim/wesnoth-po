@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2009-03-20 00:46+0100\n"
-"PO-Revision-Date: 2010-02-14 18:30+0900\n"
+"PO-Revision-Date: 2010-02-16 03:08+0900\n"
 "Last-Translator: IWAI, Masaharu <iwaim.sub@gmail.com>\n"
 "Language-Team: Japanese Translation Team\n"
 "MIME-Version: 1.0\n"
@@ -974,7 +974,7 @@ msgid ""
 "from the forests to terrorize and kill entire camps of orcs and their goblin "
 "minions. Word spreads among the orcish towns, which begin to post guards and "
 "leave torches burning all night. These measures do little to help them."
-msgstr ""
+msgstr "夏が始まり秋が終わるまで、死霊術師と彼の見習いはオークの領地を移動していました。夜中には森林からスケルトンとゴーストを召喚し、オークの集団や手先のゴブリン達を殺していました。この噂はオーク全体に流れたため、オーク達は夜通し警備をし、かがり火を燃やしはじめました。あまり効果はありませんでしたが。"
 
 #. [part]
 #: data/campaigns/Descent_Into_Darkness/scenarios/05_Orc_War.cfg:28
@@ -984,7 +984,7 @@ msgid ""
 "adepts, eager to aid in the fight, travel northwards and join the pair. "
 "'They are quite useful in battle,' the necromancer says to Malin, 'but none "
 "of them have even a tenth of your potential power.'"
-msgstr ""
+msgstr "また、 Darken Volk が Malin に言うところでは、南部ではオーク族との戦いにたくさん勝利しているという噂も流れていました。春が訪れたとき、北の大地を旅する闇の手練たちがこの戦いへの協力を熱望し、戦列に加わりました。「彼らは戦いではとても活躍するだろう」と死霊術師は Malin に言いました。「だが、それはお前の潜在的な能力の10分の1にも満たないのだ」とも。"
 
 #. [part]
 #: data/campaigns/Descent_Into_Darkness/scenarios/05_Orc_War.cfg:33
@@ -993,12 +993,12 @@ msgid ""
 "usually fractious local chieftains to unite in opposition. Eventually, at a "
 "narrow place in the river men call the Longlier and Elves call the Arkan-"
 "thoria, they manage to surround the humans and force a fight."
-msgstr ""
+msgstr "昨年 Malin と Darken Volk が与えた被害によって、普段気難しい地方指揮官は対抗勢力を結成しました。ついに、人間族が Longlier と呼び、エルフ族が Arkan-thoria と呼ぶ川のある狭い場所で、彼らは人間たちを取り囲みました。"
 
 #. [scenario]: id=Orc_war
 #: data/campaigns/Descent_Into_Darkness/scenarios/05_Orc_War.cfg:43
 msgid "River Longlier"
-msgstr ""
+msgstr "Longlier 川"
 
 #. [side]: type=Orcish Warlord, id=Borth
 #: data/campaigns/Descent_Into_Darkness/scenarios/05_Orc_War.cfg:69
@@ -1050,7 +1050,7 @@ msgstr ""
 #. [message]: speaker=Malin Keshar
 #: data/campaigns/Descent_Into_Darkness/scenarios/05_Orc_War.cfg:304
 msgid "The last chieftain... he's escaping! The coward!"
-msgstr ""
+msgstr "最後の司令官は……逃げ出したか！臆病者め！"
 
 #. [message]: speaker=Darken Volk
 #: data/campaigns/Descent_Into_Darkness/scenarios/05_Orc_War.cfg:308
@@ -2214,12 +2214,12 @@ msgstr ""
 #. [attack]: type=impact
 #: data/campaigns/Descent_Into_Darkness/units/frontier-baroness.cfg:93
 msgid "staff"
-msgstr ""
+msgstr "杖"
 
 #. [attack]: type=impact
 #: data/campaigns/Descent_Into_Darkness/units/frontier-baroness.cfg:102
 msgid "sling"
-msgstr ""
+msgstr "スリング"
 
 #. [unit_type]: id=Ghast, race=undead
 #: data/campaigns/Descent_Into_Darkness/units/ghast.cfg:4

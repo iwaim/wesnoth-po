@@ -13,7 +13,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth 1.6.5\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2009-04-17 13:28+0200\n"
-"PO-Revision-Date: 2010-02-10 05:30+0900\n"
+"PO-Revision-Date: 2010-02-17 05:09+0900\n"
 "Last-Translator: IWAI, Masaharu <iwaim.sub@gmail.com>\n"
 "Language-Team: Japanese Translation Team\n"
 "MIME-Version: 1.0\n"
@@ -116,7 +116,6 @@ msgstr "海賊ガレオン船"
 
 #. [unit_type]: id=Pirate Galleon, race=mechanical
 #: data/core/units/boats/Pirate_Galleon.cfg:18
-#, fuzzy
 msgid ""
 "Pirate galleons are to transport ships what wolves are to sheep. The pirates "
 "who crew them are more than happy to help relieve other ships of their "
@@ -1029,19 +1028,13 @@ msgstr "エルフのチャンピオン"
 
 #. [unit_type]: id=Elvish Champion, race=elf
 #: data/core/units/elves/Champion.cfg:20
-#, fuzzy
 msgid ""
 "Those few elves who deliberately hone themselves into weapons of war become "
 "something which belies the rather docile reputation of their race. "
 "Dedication and skill are matched with purity of form, and the result is "
 "swordsmanship to which few can compare. Even archery, treated as a secondary "
 "pursuit, is masterfully executed."
-msgstr ""
-"彼等自身を戦争の武器として慎重に磨き上げてきた、この数少ないエルフは、 彼等の"
-"種族のいくらか従順な評判を裏切るものであります。 献身と技能は形式の純正さに見"
-"合い、 結果としてわずかなものしか匹敵できない剣術の達人となります。弓術さえ"
-"も、 二次的な追求として扱われますが、人間の多くがただ驚きでじっと 見つめるし"
-"かできないような技でもって実行されます。"
+msgstr "彼等自身を戦争の武器として慎重に磨き上げてきた、この数少ないエルフは、エルフ族特有のおとなしいという評判を裏切るものであります。 献身と技能は形式の純正さに見合い、結果としてわずかなものしか匹敵できない剣術の達人となります。剣術ほど重視して鍛えていない弓術でさえも、達人並みに習得しています。"
 
 #. [unit_type]: id=Elvish Druid, race=elf
 #: data/core/units/elves/Druid.cfg:4
@@ -1243,7 +1236,6 @@ msgstr "エルフの元帥"
 
 #. [unit_type]: id=Elvish Marshal, race=elf
 #: data/core/units/elves/Marshal.cfg:27
-#, fuzzy
 msgid ""
 "The longevity and natural intelligence of elves make them apt for military "
 "matters, enough even to counter their general distaste for such things. "
@@ -1251,13 +1243,7 @@ msgid ""
 "what others can only be trained to do. Certainly, on those rare occasions "
 "when an elf sets his mind to war, the strategy that results is the work of a "
 "master."
-msgstr ""
-"エルフの長寿と生まれながらの知性によって、軍隊にありがちな邪悪な性向について"
-"は、 彼等が一般的にそのようなものを嫌うために、全く逆のものに変えてしまいま"
-"す。 エルフは人間よりもずっとはっきりと物事を憶えていて、 他の者達にどのよう"
-"な訓練を行えばよいかをしばしば直感で知ることができます。 まさに、エルフが戦争"
-"に心を向けるというめったにない機会において生まれる戦略は、 巨匠の作品となりま"
-"す。"
+msgstr "長寿と生まれながらの知性をもつエルフは、軍隊にありがちな慣習を持っていません。エルフ族は一般的にそういったものに嫌悪感を持つからです。エルフは人間よりもずっとはっきりと物事を憶えていて、他の者達にどのような訓練を行えばよいかをしばしば直感で知ることができます。エルフが戦争に心を向けるというめったにない機会において生まれる戦略は、まさに偉大な芸術家の作品のようでもあります。"
 
 #. [unit_type]: id=Elvish Outrider, race=elf
 #: data/core/units/elves/Outrider.cfg:4
@@ -1486,7 +1472,6 @@ msgstr "ダイアウルフライダー"
 
 #. [unit_type]: id=Direwolf Rider, race=wolf
 #: data/core/units/goblins/Direwolf_Rider.cfg:21
-#, fuzzy
 msgid ""
 "'Dire wolves' differ from the common variety only in size and color. They "
 "typically stand taller than a horse at the shoulder, and have an appetite to "
@@ -1499,15 +1484,9 @@ msgid ""
 "the orcish assassins, making a swipe from these beasts' paws into a most "
 "deadly stroke."
 msgstr ""
-"「ダイアウルフ」は普通の種類とは、大きさと色だけが異なります。 それは通常肩ま"
-"での馬よりも高く立ち上がり、それに見合う食欲があります。 狂ったものだけがその"
-"ようなものに出くわしたいと望むでしょう。すなわち、 ゴブリンが多大な労力をかけ"
-"て、(言うなれば)手なづけることができたのです。\n"
+"「ダイアウルフ」と普通の種類の狼との違いは大きさと色だけです。通常サイズでは、その高さは馬の肩よりも大きくなり、その大きさに見合っただけの食欲もあります。正常な判断力を持っていれば、このような生き物に出くわしたいと望むものはいないでしょう。しかしながら、ゴブリンの中には大変な労力をかけてダイアウルフを飼いならし、その背中に乗ることができるものもいるのです。\n"
 "\n"
-"狼のかぎ爪は一般的には最も危険な部分としては見なされませんが、 それは鉄釘より"
-"も太く長いのです。その乗り手は前面に毒を塗りつけることで、 オークの暗殺者に"
-"よって使われていたようなものではなく、この獣の足で打たれる ことはほぼ死にいた"
-"る一撃となります。"
+"狼のかぎ爪は一般的には最も危険な部分としては見なされてはいませんが、実際には大きいもので、鉄釘よりも太く長いのです。ダイアウルフライダーはその前足に毒を塗りつけています。このことにより、オークの暗殺者による毒の攻撃とは違って、死にも至るほどの一撃を繰り出します。"
 
 #. [unit_type]: id=Goblin Impaler, race=goblin
 #: data/core/units/goblins/Impaler.cfg:4
@@ -1545,13 +1524,9 @@ msgid ""
 "The wolves they are given are bred for speed and strength, making them quite "
 "dangerous in combat."
 msgstr ""
-"ゴブリンの「騎士」というのは同じ称号をもつ人間とはほとんど共通点がなく、 その"
-"称号は彼等の敵の口調の中でのみ使われるものです。類似点は単に彼等が ウルフライ"
-"ダーのエリートであるということで、おそらくは、何か向こうみずな 襲撃での成功"
-"や、同様に下劣な性質の何かによりその地位に昇進しています。\n"
+"ゴブリンの「騎士」というのは人間族での同様に呼ばれる称号とはほとんど共通点はありません。彼らの敵からそう呼ばれているだけなのです。類似点は、単に彼らが「ウルフライダー」のエリートであるという点だけです。おそらくは、何か向こうみずな襲撃で成功したという理由でその地位を獲得したのでしょう。\n"
 "\n"
-"彼等が与えられる狼は速度と力のために改良されており、彼等は戦闘において 極めて"
-"危険なものとなります。"
+"彼等が与えられる狼は速度と力の面で優秀なものであるため、戦闘においては極めて危険なものとなります。"
 
 #. [unit_type]: id=Goblin Pillager, race=wolf
 #: data/core/units/goblins/Pillager.cfg:4
@@ -1560,16 +1535,12 @@ msgstr "ゴブリンの略奪兵"
 
 #. [unit_type]: id=Goblin Pillager, race=wolf
 #: data/core/units/goblins/Pillager.cfg:19
-#, fuzzy
 msgid ""
 "Some Goblins train their wolves to overcome their fear of fire. In raids, "
 "these goblins take a supporting role; they will torch the homes and crops of "
 "their foes, and also carry nets to wreak havoc against those attempting to "
 "rally for defense or reprisal."
-msgstr ""
-"あるゴブリンは彼等の狼を炎の恐れに打ち勝つよう訓練します。襲撃において、 これ"
-"らのゴブリンは驚くべき役割を果たします。彼等は敵の家々や作物に放火し、 また網"
-"を引いて防御や報復に向かおうとする試みを台無しにします。"
+msgstr "ゴブリンの中には、狼を炎の恐れに打ち勝つよう訓練します。襲撃において、これらのゴブリンは驚くべき役割を果たします。彼等は、敵の家々や作物に放火したり、網を投げて防御や反撃を困難にしたりするのです。"
 
 #. [attack]: type=fire
 #: data/core/units/goblins/Pillager.cfg:43
@@ -1638,7 +1609,6 @@ msgstr "ウルフライダー"
 
 #. [unit_type]: id=Wolf Rider, race=wolf
 #: data/core/units/goblins/Wolf_Rider.cfg:36
-#, fuzzy
 msgid ""
 "No one is quite sure how the practice of taming and riding wolves came into "
 "being, but the advantages of it for a goblin are obvious. Goblins are "
@@ -1652,13 +1622,9 @@ msgid ""
 "mounts have a rather easy time traversing the mountains, though water and "
 "woods will still slow them down."
 msgstr ""
-"どのように狼を飼い馴らし、乗るという習慣がどのように生まれてきたかは 誰も確証"
-"がありません。ゴブリンはオークよりも小さく、また弱いものです。 乗ることができ"
-"たものは、より安全であり、戦闘においてより面白い役割を果たすでしょう。\n"
+"狼を飼い馴らし、乗るという習慣がどのように生まれてきたかは誰も知りません。しかし、ゴブリンにとって狼に乗るということは多大なメリットがあります。ゴブリンはオークと比べると小さく弱い生き物です。そのため、とても危険な任務や、戦ではあまり重要でない任務を押し付けられることもしばしばあります。一方で狼に乗ることができたゴブリンは、より安全になり、戦局に大きな影響を与えたり、戦においてより面白い役割を果たすこともできるでしょう。\n"
 "\n"
-"狼は、プレートアーマーを着た人間を支えることはできませんが、 レザーアーマーを"
-"着たゴブリンを担ぐのは簡単です。馬とはまったく違って、 狼は山を楽に横切ること"
-"ができますが、水や森は彼らの歩みを遅くするでしょう。"
+"狼はプレートアーマーを着た人間を支えることはできませんが、レザーアーマーを着たゴブリンを担ぐのは簡単です。馬とはまったく違って、狼は山を楽に横切ることができます。しかし、水や森は彼らの歩みを遅くするでしょう。"
 
 #. [unit_type]: id=Gryphon, race=gryphon
 #: data/core/units/gryphons/Gryphon.cfg:4
@@ -2478,9 +2444,8 @@ msgstr "熟練女魔術師"
 
 #. [unit_type]: id=Elder Mage, race=human
 #: data/core/units/humans/Mage_Elder.cfg:4
-#, fuzzy
 msgid "Elder Mage"
-msgstr "銀魔術師"
+msgstr ""
 
 #. [unit_type]: id=Elder Mage, race=human
 #: data/core/units/humans/Mage_Elder.cfg:22
