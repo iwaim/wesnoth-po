@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth 0.9.5\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2009-05-26 22:21+0200\n"
-"PO-Revision-Date: 2010-03-04 17:02+0900\n"
+"PO-Revision-Date: 2010-03-04 23:18+0900\n"
 "Last-Translator: IWAI, Masaharu <iwaim.sub@gmail.com>\n"
 "Language-Team: Japanese Translation Team\n"
 "MIME-Version: 1.0\n"
@@ -32,32 +32,32 @@ msgstr "黒眼の子"
 #. [campaign]: id=Son_Of_The_Black_Eye
 #: data/campaigns/Son_Of_The_Black_Eye/_main.cfg:15
 msgid "Grunt"
-msgstr ""
+msgstr "子豚ちゃん"
 
 #. [campaign]: id=Son_Of_The_Black_Eye
 #: data/campaigns/Son_Of_The_Black_Eye/_main.cfg:15
 msgid "(Challenging)"
-msgstr ""
+msgstr "（挑戦的）"
 
 #. [campaign]: id=Son_Of_The_Black_Eye
 #: data/campaigns/Son_Of_The_Black_Eye/_main.cfg:16
 msgid "Warrior"
-msgstr ""
+msgstr "戦士"
 
 #. [campaign]: id=Son_Of_The_Black_Eye
 #: data/campaigns/Son_Of_The_Black_Eye/_main.cfg:16
 msgid "(Difficult)"
-msgstr ""
+msgstr "（難しい）"
 
 #. [campaign]: id=Son_Of_The_Black_Eye
 #: data/campaigns/Son_Of_The_Black_Eye/_main.cfg:17
 msgid "(Nightmare)"
-msgstr ""
+msgstr "（悪夢）"
 
 #. [campaign]: id=Son_Of_The_Black_Eye
 #: data/campaigns/Son_Of_The_Black_Eye/_main.cfg:17
 msgid "Warlord"
-msgstr ""
+msgstr "将軍"
 
 #. [campaign]: id=Son_Of_The_Black_Eye
 #: data/campaigns/Son_Of_The_Black_Eye/_main.cfg:22
@@ -78,12 +78,12 @@ msgstr ""
 #. [about]
 #: data/campaigns/Son_Of_The_Black_Eye/_main.cfg:27
 msgid "Campaign Design"
-msgstr ""
+msgstr "キャンペーンデザイン"
 
 #. [about]
 #: data/campaigns/Son_Of_The_Black_Eye/_main.cfg:38
 msgid "Campaign Maintenance"
-msgstr ""
+msgstr "キャンペーンメンテナンス"
 
 #. [about]
 #: data/campaigns/Son_Of_The_Black_Eye/_main.cfg:48
@@ -93,7 +93,7 @@ msgstr ""
 #. [about]
 #: data/campaigns/Son_Of_The_Black_Eye/_main.cfg:54
 msgid "Artwork and Graphics"
-msgstr ""
+msgstr "アートワークとグラフィックス"
 
 #. [scenario]: id=End_Of_Peace
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/01_End_Of_Peace.cfg:4
@@ -240,17 +240,12 @@ msgstr ""
 
 #. [part]
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/01_End_Of_Peace.cfg:99
-#, fuzzy
 msgid ""
 "Rahul I, Lord Protector of the Northern Alliance, concluded peace with enemy "
 "orcs during the 4th year of his leadership. He ended a 15-year war with "
 "Black-Eye Karun, ruler of the enemy orcs. A peace treaty between the "
 "Alliance and the orcs settled their territorial disputes."
-msgstr ""
-"Wesnoth の王、Rahul 1 世は、彼の治世の 4 年目にオーク族と平和条約を締結した。"
-"彼はオーク族の支配者、黒眼の Karun との 15 年間の戦争を終えた。平和条約はどの"
-"土地をオーク族と人間のどちらが使うかを定めた。この条約から数年間は順調だっ"
-"た。"
+msgstr "北部同盟の護民官 Rahul 1 世は、彼の治世の 4 年目に敵対していたオーク族と平和条約を締結した。オーク族の支配者、黒眼の Karun との 15 年間の戦争は終戦となったのだ。この平和条約により、北部同盟とオーク族の間での領地争いは終わりを迎えた。"
 
 #. [part]
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/01_End_Of_Peace.cfg:104
@@ -264,7 +259,7 @@ msgid ""
 "to confirm the incident, but it soon became believed among the orcs that the "
 "Northern Alliance had deliberately set up this ambush in order to break the "
 "unity of the orcs by slaying their strongest leader."
-msgstr ""
+msgstr "Rahul は、Karun のその知性と勇敢さ、そしてリーダーシップを認めていました。北部同盟の護民官となった Rahul は、黒眼の Karun を招きました。熟考の末、Karun はその申し出を受け入れることを決定しました。Karun は少人数の護衛を連れて北部同盟の本部がある Dwarven Doors の都市に向かいました。しかしながら、その道中に Karun と護衛団は攻撃を受け、皆殺しにされました。この事件の真相を確認するための生存者はいませんでした。それでも、オーク族の中では、オーク族の最も強い指導者を殺害することでオーク族の団結を崩すために北部同盟が待ち伏せしていたに違いないと信じられるようになりました。"
 
 #. [part]
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/01_End_Of_Peace.cfg:109

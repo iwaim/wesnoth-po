@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth 1.6.5\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2009-04-08 12:20+0200\n"
-"PO-Revision-Date: 2010-02-09 18:06+0900\n"
+"PO-Revision-Date: 2010-03-04 22:04+0900\n"
 "Last-Translator: IWAI, Masaharu <iwaim.sub@gmail.com>\n"
 "Language-Team: Japanese Translation Team\n"
 "MIME-Version: 1.0\n"
@@ -39,12 +39,12 @@ msgstr "戦士"
 #. [campaign]: id=The_Rise_Of_Wesnoth
 #: data/campaigns/The_Rise_Of_Wesnoth/_main.cfg:16
 msgid "(Easy)"
-msgstr ""
+msgstr "（易しい）"
 
 #. [campaign]: id=The_Rise_Of_Wesnoth
 #: data/campaigns/The_Rise_Of_Wesnoth/_main.cfg:17
 msgid "(Normal)"
-msgstr ""
+msgstr "（普通）"
 
 #. [campaign]: id=The_Rise_Of_Wesnoth
 #: data/campaigns/The_Rise_Of_Wesnoth/_main.cfg:17
@@ -54,7 +54,7 @@ msgstr "指揮官"
 #. [campaign]: id=The_Rise_Of_Wesnoth
 #: data/campaigns/The_Rise_Of_Wesnoth/_main.cfg:18
 msgid "(Challenging)"
-msgstr ""
+msgstr "（挑戦的）"
 
 #. [campaign]: id=The_Rise_Of_Wesnoth
 #: data/campaigns/The_Rise_Of_Wesnoth/_main.cfg:18

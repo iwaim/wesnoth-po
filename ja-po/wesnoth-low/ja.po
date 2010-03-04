@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2009-09-06 18:30+0200\n"
-"PO-Revision-Date: 2005-05-05 00:16+0200\n"
+"PO-Revision-Date: 2010-03-04 22:11+0900\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
 "MIME-Version: 1.0\n"
@@ -39,12 +39,12 @@ msgstr ""
 #. [campaign]: id=LOW
 #: data/campaigns/Legend_of_Wesmere/_main.cfg:53
 msgid "(Easy)"
-msgstr ""
+msgstr "（易しい）"
 
 #. [campaign]: id=LOW
 #: data/campaigns/Legend_of_Wesmere/_main.cfg:54
 msgid "(Normal)"
-msgstr ""
+msgstr "（普通）"
 
 #. [campaign]: id=LOW
 #: data/campaigns/Legend_of_Wesmere/_main.cfg:54
@@ -54,7 +54,7 @@ msgstr "君主"
 #. [campaign]: id=LOW
 #: data/campaigns/Legend_of_Wesmere/_main.cfg:55
 msgid "(Hard)"
-msgstr ""
+msgstr "（ハード）"
 
 #. [campaign]: id=LOW
 #: data/campaigns/Legend_of_Wesmere/_main.cfg:55
@@ -488,16 +488,14 @@ msgstr ""
 #: data/campaigns/Legend_of_Wesmere/scenarios/07_Elves_last_stand.cfg:269
 #: data/campaigns/Legend_of_Wesmere/scenarios/19_Costly_Revenge.cfg:123
 #: data/campaigns/Legend_of_Wesmere/scenarios/17_Breaking_the_siege.cfg:174
-#, fuzzy
 msgid "Defeat all enemy leaders"
-msgstr "すべての敵を倒す"
+msgstr "敵のリーダーをすべて倒す"
 
 #. [objective]: condition=lose
 #: data/campaigns/Legend_of_Wesmere/scenarios/03_Kalian.cfg:203
 #: data/campaigns/Legend_of_Wesmere/scenarios/07_Elves_last_stand.cfg:289
-#, fuzzy
 msgid "Death of Galtrid"
-msgstr "Kalenz の死"
+msgstr "Galtrid の死"
 
 #. [message]: id=Kalenz
 #: data/campaigns/Legend_of_Wesmere/scenarios/03_Kalian.cfg:218

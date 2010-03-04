@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2009-03-26 12:26+0100\n"
-"PO-Revision-Date: 2010-02-15 01:27+0900\n"
+"PO-Revision-Date: 2010-03-04 22:15+0900\n"
 "Last-Translator: IWAI, Masaharu <iwaim.sub@gmail.com>\n"
 "Language-Team: Japanese Translation Team\n"
 "MIME-Version: 1.0\n"
@@ -31,12 +31,12 @@ msgstr "無法者"
 #. [campaign]: id=Liberty
 #: data/campaigns/Liberty/_main.cfg:17
 msgid "(Easy)"
-msgstr "(簡単)"
+msgstr "（易しい）"
 
 #. [campaign]: id=Liberty
 #: data/campaigns/Liberty/_main.cfg:17
 msgid "(Difficult)"
-msgstr "(難しい)"
+msgstr "（難しい）"
 
 #. [campaign]: id=Liberty
 #: data/campaigns/Liberty/_main.cfg:17
@@ -46,7 +46,7 @@ msgstr "農民"
 #. [campaign]: id=Liberty
 #: data/campaigns/Liberty/_main.cfg:17
 msgid "(Normal)"
-msgstr "(普通)"
+msgstr "（普通）"
 
 #. [campaign]: id=Liberty
 #: data/campaigns/Liberty/_main.cfg:17
@@ -488,7 +488,7 @@ msgstr "Tarwen"
 #: data/campaigns/Liberty/scenarios/07_The_Hunters.cfg:67
 #: data/campaigns/Liberty/scenarios/07_The_Hunters.cfg:81
 msgid "Asheviere"
-msgstr ""
+msgstr "Asheviere"
 
 #. [objective]: condition=win
 #: data/campaigns/Liberty/scenarios/02_Civil_Disobedience.cfg:78

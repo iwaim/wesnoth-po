@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2009-05-26 22:20+0200\n"
-"PO-Revision-Date: 2005-06-03 08:00+0200\n"
+"PO-Revision-Date: 2010-03-04 22:07+0900\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
 "MIME-Version: 1.0\n"
@@ -24,7 +24,7 @@ msgstr ""
 #. [campaign]: id=Northern_Rebirth
 #: data/campaigns/Northern_Rebirth/_main.cfg:15
 msgid "(Normal)"
-msgstr ""
+msgstr "（普通）"
 
 #. [campaign]: id=Northern_Rebirth
 #: data/campaigns/Northern_Rebirth/_main.cfg:15
@@ -39,12 +39,12 @@ msgstr "槍兵"
 #. [campaign]: id=Northern_Rebirth
 #: data/campaigns/Northern_Rebirth/_main.cfg:16
 msgid "(Challenging)"
-msgstr ""
+msgstr "（挑戦的）"
 
 #. [campaign]: id=Northern_Rebirth
 #: data/campaigns/Northern_Rebirth/_main.cfg:17
 msgid "(Difficult)"
-msgstr ""
+msgstr "（難しい）"
 
 #. [campaign]: id=Northern_Rebirth
 #: data/campaigns/Northern_Rebirth/_main.cfg:17
@@ -59,7 +59,7 @@ msgstr ""
 #. [campaign]: id=Northern_Rebirth
 #: data/campaigns/Northern_Rebirth/_main.cfg:18
 msgid "(Nightmare)"
-msgstr ""
+msgstr "（悪夢）"
 
 #. [campaign]: id=Northern_Rebirth
 #: data/campaigns/Northern_Rebirth/_main.cfg:22

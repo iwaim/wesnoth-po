@@ -12,7 +12,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth 1.0.0-CVS\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2009-05-26 22:20+0200\n"
-"PO-Revision-Date: 2010-02-15 02:53+0900\n"
+"PO-Revision-Date: 2010-03-04 23:07+0900\n"
 "Last-Translator: R.N <dragonfly65th@yahoo.co.jp>\n"
 "Language-Team: Japanese Translation Team\n"
 "MIME-Version: 1.0\n"
@@ -33,7 +33,7 @@ msgstr "東部侵略"
 #. [campaign]: id=Eastern_Invasion
 #: data/campaigns/Eastern_Invasion/_main.cfg:16
 msgid "(Easy)"
-msgstr "(易しい)"
+msgstr "（易しい）"
 
 #. [campaign]: id=Eastern_Invasion
 #: data/campaigns/Eastern_Invasion/_main.cfg:16
@@ -43,7 +43,7 @@ msgstr "槍兵"
 #. [campaign]: id=Eastern_Invasion
 #: data/campaigns/Eastern_Invasion/_main.cfg:17
 msgid "(Normal)"
-msgstr "(普通)"
+msgstr "（普通）"
 
 #. [campaign]: id=Eastern_Invasion
 #: data/campaigns/Eastern_Invasion/_main.cfg:17
@@ -53,7 +53,7 @@ msgstr "剣士"
 #. [campaign]: id=Eastern_Invasion
 #: data/campaigns/Eastern_Invasion/_main.cfg:18
 msgid "(Challenging)"
-msgstr "(挑戦的)"
+msgstr "（挑戦的）"
 
 #. [campaign]: id=Eastern_Invasion
 #: data/campaigns/Eastern_Invasion/_main.cfg:18
@@ -69,10 +69,9 @@ msgid ""
 "\n"
 "(Intermediate level, 18 scenarios.)"
 msgstr ""
-"Wesnothの東国境にアンデッド襲撃の噂が流れている。王軍の一員である貴方は、東戦"
-"線に送られたのであった。村人を保護し、そして真相を見極めるために。\n"
+"Wesnothの東国境にアンデッド襲撃の噂が流れている。王軍の一員である貴方は、東戦線に送られたのであった。村人を保護し、そして真相を見極めるために。\n"
 "\n"
-"(中間レベル, 18 シナリオ.)"
+"(中級者レベル, 18 シナリオ.)"
 
 #. [about]
 #: data/campaigns/Eastern_Invasion/_main.cfg:25
