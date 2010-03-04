@@ -13,7 +13,7 @@ msgstr ""
 "Project-Id-Version: 1.1.7\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2009-04-17 13:29+0200\n"
-"PO-Revision-Date: 2010-03-04 22:16+0900\n"
+"PO-Revision-Date: 2010-03-05 02:11+0900\n"
 "Last-Translator: IWAI, Masaharu <iwaim.sub@gmail.com>\n"
 "Language-Team: Japanese Translation Team\n"
 "MIME-Version: 1.0\n"
@@ -1066,7 +1066,7 @@ msgid ""
 "`(early finish bonus)"
 msgstr ""
 "<255,255,255>別の目標:\n"
-"@すべての敵のリーダーを倒す\n"
+"@敵のリーダーをすべて倒す\n"
 "`(早期終了ボーナス)"
 
 #. [side]: type=Orcish Warrior, id=Dwaba-Kukai
@@ -1679,7 +1679,7 @@ msgid ""
 "`(special bonus)"
 msgstr ""
 "<255,255,255>別の目標:\n"
-"@すべての敵のリーダーを倒す\n"
+"@敵のリーダーをすべて倒す\n"
 "`(スペシャルボーナス)"
 
 #. [objectives]
@@ -1910,7 +1910,7 @@ msgstr "Elensefar の包囲"
 #: data/campaigns/Heir_To_The_Throne/scenarios/22_Return_to_Wesnoth.cfg:21
 #: data/campaigns/Heir_To_The_Throne/scenarios/12_Northern_Winter.cfg:19
 msgid "Defeat all enemy leaders"
-msgstr "すべての敵のリーダーを倒す"
+msgstr "敵のリーダーをすべて倒す"
 
 #. [label]
 #: data/campaigns/Heir_To_The_Throne/scenarios/06_The_Siege_of_Elensefar.cfg:38
@@ -7357,7 +7357,7 @@ msgid ""
 "@Defeat all enemy leaders"
 msgstr ""
 "<255,255,255>達成ボーナスのある目標:\n"
-"@すべての敵のリーダーを倒す"
+"@敵のリーダーをすべて倒す"
 
 #. [side]: type=Grand Knight, id=Sir Alric
 #. [side]: type=Grand Knight, id=Sir Ruga

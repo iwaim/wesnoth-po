@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth 0.9.5\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2009-05-26 22:21+0200\n"
-"PO-Revision-Date: 2010-03-04 23:18+0900\n"
+"PO-Revision-Date: 2010-03-05 02:11+0900\n"
 "Last-Translator: IWAI, Masaharu <iwaim.sub@gmail.com>\n"
 "Language-Team: Japanese Translation Team\n"
 "MIME-Version: 1.0\n"
@@ -271,7 +271,7 @@ msgid ""
 "that with the death of the Black Eye, the unity of the orcs was shattered "
 "and they once again descended into inner squabbling. Thus the years that "
 "followed were relatively peaceful and prosperous - at least, for the humans."
-msgstr ""
+msgstr "しかしながら、平和条約は、部分的にではありますが、まだ維持されたままでした。大半は北部同盟がお膳立てした平和条約ではありましたが、地方の領主は北部同盟とは直接的な支配関係にはなかったため、地方の領主とオーク族の間では条約の効力があったのです。またそれ以外の場所 - といってもそちらの方が広大な範囲 - では、黒眼が死んでしまったことによってオーク族の結束は崩壊し、内部での小競り合いが再び開始されてしまったために、条約は維持されていました。このような理由で、比較的平和で順調な年が続きました。少なくとも人間族にとっては。"
 
 #. [part]
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/01_End_Of_Peace.cfg:115
@@ -399,9 +399,8 @@ msgstr ""
 
 #. [message]: speaker=Kapou'e
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/01_End_Of_Peace.cfg:232
-#, fuzzy
 msgid "Hmmm..."
-msgstr "……"
+msgstr "ふむ……"
 
 #. [option]: speaker=Kapou'e
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/01_End_Of_Peace.cfg:235
@@ -471,19 +470,17 @@ msgstr ""
 #. [scenario]: id=the_human_army
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/02_The_Human_Army.cfg:4
 msgid "The Human Army"
-msgstr ""
+msgstr "人間族の軍隊"
 
 #. [objective]: condition=win
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/02_The_Human_Army.cfg:21
-#, fuzzy
 msgid "Defeat Lanbec'h"
-msgstr "Earl Lanbec'h"
+msgstr "Lanbec'h の死"
 
 #. [side]: type=General, id=Lanbec'h
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/02_The_Human_Army.cfg:57
-#, fuzzy
 msgid "Lanbec'h"
-msgstr "Earl Lanbec'h"
+msgstr "Lanbec'h"
 
 #. [part]
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/02_The_Human_Army.cfg:74
@@ -977,7 +974,7 @@ msgstr "Barag Gór の包囲"
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/13_Dwarvish_Stand.cfg:19
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/16_Coward.cfg:29
 msgid "Defeat all enemy leaders"
-msgstr "すべての敵のリーダーを倒す"
+msgstr "敵のリーダーをすべて倒す"
 
 #. [objective]: condition=lose
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/04_The_Siege_Of_Barag_Gor.cfg:35
