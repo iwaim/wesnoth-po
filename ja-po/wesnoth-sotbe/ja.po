@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth 0.9.5\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2009-05-26 22:21+0200\n"
-"PO-Revision-Date: 2010-03-07 03:02+0900\n"
+"PO-Revision-Date: 2010-03-07 15:10+0900\n"
 "Last-Translator: IWAI, Masaharu <iwaim.sub@gmail.com>\n"
 "Language-Team: Japanese Translation Team\n"
 "MIME-Version: 1.0\n"
@@ -651,7 +651,7 @@ msgstr "止まれ！そこを行くのは誰だ？"
 #. [message]: speaker=Kapou'e
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/03_Towards_Mountains_of_Haag.cfg:136
 msgid "It is I, Kapou'e, son of the Black-Eye Karun. What do you want, dwarf?"
-msgstr "私か？我は黒眼の Karun の子 Kapou'e だ。ドワーフよ、何が望みだ？"
+msgstr "我が名は Kapou'e。黒眼の Karun の子だ。ドワーフよ、何が望みだ？"
 
 #. [message]: speaker=Kwili
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/03_Towards_Mountains_of_Haag.cfg:142
@@ -751,7 +751,6 @@ msgstr "親父、俺たちは彼らを助けるべきだ。オーク族は我々
 
 #. [message]: speaker=Blemaker
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/03_Towards_Mountains_of_Haag.cfg:257
-#, fuzzy
 msgid ""
 "I don't know. Orcs have been our allies in the past, but they treat us as "
 "fools."
@@ -823,21 +822,17 @@ msgstr "ああ、なんてことだ、俺は負けた。"
 
 #. [message]: speaker=Blemaker
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/03_Towards_Mountains_of_Haag.cfg:342
-#, fuzzy
 msgid ""
 "My son! I should have never brought him to this fight. Now we return to our "
 "caverns, and we never return."
-msgstr ""
-"息子よ！ お前をこの戦いに連れてくるべきではなかった。これから我々は洞窟に戻"
-"り、再び戻ってくることはないだろう。"
+msgstr "息子よ！ お前をこの戦いに連れてくるべきではなかった。我々は洞窟に戻り、再び出てくることはないだろう。"
 
 #. [message]: speaker=Kapou'e
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/03_Towards_Mountains_of_Haag.cfg:351
-#, fuzzy
 msgid ""
 "The trolls are done. We will desperately need their help in the coming "
 "battles. Without them there is no hope."
-msgstr "我々のトロルの友は終わりだ。彼らがいなければ望みはない。"
+msgstr "トロルは退いてしまった。来たるべき戦いには彼らが絶対に必要なのに。彼らが共に戦ってくれなければ我々にもう望みはない。"
 
 #. [message]: speaker=unit
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/03_Towards_Mountains_of_Haag.cfg:365
@@ -860,25 +855,19 @@ msgstr ""
 
 #. [message]: speaker=Kapou'e
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/03_Towards_Mountains_of_Haag.cfg:440
-#, fuzzy
 msgid ""
 "We've succeeded! We've passed through the Mountains of Haag! Look at these "
 "green hills! We've reached the lands of the free tribes. I can see the walls "
 "of Barag Gór in the distance."
-msgstr ""
-"うまくいった！ 我々は Haag の山地を通り抜けた！ この緑の丘を見ろ！ 自由民族の"
-"地は近い。Barag Gór の防壁が遠くに見える。"
+msgstr "うまくいった！ 我々は Haag の山地を通り抜けた！ この緑の丘を見ろ！ 自由民族の地にたどり着いたぞ。Barag Gór の防壁が遠くに見える。"
 
 #. [message]: speaker=Kapou'e
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/03_Towards_Mountains_of_Haag.cfg:444
-#, fuzzy
 msgid ""
 "Blemaker, many thanks for your help in this fight. Would you like to join us "
 "in our journey with your son? You are a powerful warrior, and you would be "
 "of great help."
-msgstr ""
-"Blemaker、この戦いにおける援護にとても感謝している。あなたの息子とともに我々"
-"の旅に加わる気はないか？ あなたたちの助けは歓迎だ！"
+msgstr "Blemaker、この戦いにおける援護にとても感謝している。あなたの息子とともに我々の旅に加わる気はないか？強力な戦士であるあなたたちの助けは大歓迎だ！"
 
 #. [message]: speaker=Grüü
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/03_Towards_Mountains_of_Haag.cfg:449
@@ -887,7 +876,6 @@ msgstr "親父、俺は彼らに加わりたいと思う。だめか？"
 
 #. [message]: speaker=Blemaker
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/03_Towards_Mountains_of_Haag.cfg:453
-#, fuzzy
 msgid ""
 "My son, you're old enough to discover the world. Me, I have to stay here. "
 "But take care, there are plenty of creatures that seek our end, like elves "
@@ -904,7 +892,6 @@ msgstr "ありがとう、親父。心配はいらない、俺は自分の面倒
 
 #. [message]: speaker=Kapou'e
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/03_Towards_Mountains_of_Haag.cfg:463
-#, fuzzy
 msgid ""
 "We've succeeded! We've passed through the Mountains of Haag! Look at these "
 "green hills! The land of the free tribes is near now. I can see the walls of "
@@ -915,7 +902,6 @@ msgstr ""
 
 #. [message]: speaker=Kapou'e
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/03_Towards_Mountains_of_Haag.cfg:467
-#, fuzzy
 msgid ""
 "Grüü, many thanks for your help in this fight. I'm sorry for the loss of "
 "your father. Would you like to join us in our journey? Your help would be "
@@ -929,9 +915,7 @@ msgstr ""
 msgid ""
 "My father would have come to help you. I would insult his memory not to help "
 "you. I come!"
-msgstr ""
-"親父もあなたを助けにいきたかっただろう。俺はあなたを助けようとしないことで親"
-"父の名声を傷つけたくはない。俺も一緒に行く！"
+msgstr "親父もあなたを助けにいきたかっただろう。俺があなたを助けようとしなければ親父の名声に傷がついてしまう。俺も一緒に行く！"
 
 #. [scenario]: id=The_Siege_Of_Barag_Gor
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/04_The_Siege_Of_Barag_Gor.cfg:4
@@ -989,7 +973,7 @@ msgstr "Rugh"
 #. [side]: type=Elvish Marshal, id=Hida'tul
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/04_The_Siege_Of_Barag_Gor.cfg:98
 msgid "Hida'tul"
-msgstr ""
+msgstr "Hida'tul"
 
 #. [side]: type=Elvish Marshal, id=Ammon
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/04_The_Siege_Of_Barag_Gor.cfg:112
@@ -1006,21 +990,21 @@ msgstr "Sammual"
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/04_The_Siege_Of_Barag_Gor.cfg:181
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/11_Clash_Of_Armies.cfg:365
 msgid "Pirk"
-msgstr ""
+msgstr "Pirk"
 
 #. [event]
 #. [event]: role=greathordeprops}, role=greathordeprops}, role=greathordeprops}, role=greathordeprops}, role=greathordeprops}, role=greathordeprops}, role=greathordeprops}, role=greathordeprops}, role=greathordeprops}, role=greathordeprops}, role=greathordeprops}
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/04_The_Siege_Of_Barag_Gor.cfg:182
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/11_Clash_Of_Armies.cfg:366
 msgid "Gork"
-msgstr ""
+msgstr "Gork"
 
 #. [event]
 #. [event]: role=greathordeprops}, role=greathordeprops}, role=greathordeprops}, role=greathordeprops}, role=greathordeprops}, role=greathordeprops}, role=greathordeprops}, role=greathordeprops}, role=greathordeprops}, role=greathordeprops}, role=greathordeprops}
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/04_The_Siege_Of_Barag_Gor.cfg:183
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/11_Clash_Of_Armies.cfg:367
 msgid "Vraurk"
-msgstr ""
+msgstr "Vraurk"
 
 #. [message]: speaker=narrator
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/04_The_Siege_Of_Barag_Gor.cfg:248
@@ -1224,54 +1208,54 @@ msgstr "ついに包囲網を破ったぞ！"
 msgid ""
 "Thank you, Son of the Black-Eye. If you hadn't arrived when you did, I don't "
 "know what would have happened to us."
-msgstr ""
+msgstr "黒眼の子よ、感謝する。あなたたちが今到着していなければ、我々の身に何が起こってしまっていたのか想像もつかない。"
 
 #. [message]: speaker=Kapou'e
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/04_The_Siege_Of_Barag_Gor.cfg:569
 msgid "No problem! It was fun, wasn't it, Grüü?"
-msgstr ""
+msgstr "気にするな！あんなものは遊び程度に過ぎない。なあ、Grüü？"
 
 #. [message]: speaker=Grüü
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/04_The_Siege_Of_Barag_Gor.cfg:574
 msgid "Hahaha! Yeah!"
-msgstr ""
+msgstr "ハッハッハ！その通りだ！"
 
 #. [message]: speaker=Kapou'e
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/04_The_Siege_Of_Barag_Gor.cfg:579
 msgid ""
 "But, actually, we have come all the way from our lands to get your help."
-msgstr ""
+msgstr "だが、実際のところは、我々はあなたたちの助力を得るために我々の国からはるばるやってきたのだ。"
 
 #. [message]: speaker=Vraurk
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/04_The_Siege_Of_Barag_Gor.cfg:584
 msgid "Why? What's wrong?"
-msgstr ""
+msgstr "何故だ？何か悪いことでも？"
 
 #. [message]: speaker=Kapou'e
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/04_The_Siege_Of_Barag_Gor.cfg:589
 msgid ""
 "Those insolent humans have massed a huge army and attacked us. We defeated "
 "their vanguard but in the end we were forced to retreat."
-msgstr ""
+msgstr "横柄な人間どもが巨大な軍隊で我々に攻撃を仕掛けてきたのだ。前衛は退けてやったが、その後やむを得ずに撤退したのだ。"
 
 #. [message]: speaker=Pirk
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/04_The_Siege_Of_Barag_Gor.cfg:594
 msgid ""
 "Hmmmm, this situation is very serious. As you know by now, they have also "
 "hired these elves to attack us here."
-msgstr ""
+msgstr "ふむ……、この状況はとても悪い。ご存知のように人間族はここで我々を攻撃するためにエルフ族を雇ってもいるのだ。"
 
 #. [message]: speaker=Kapou'e
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/04_The_Siege_Of_Barag_Gor.cfg:599
 msgid "Yes. It seems to me that the humans are declaring all-out war on us."
-msgstr ""
+msgstr "ああ。人間族は我々に対して全面戦争を布告しているのだ。"
 
 #. [message]: speaker=Gork
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/04_The_Siege_Of_Barag_Gor.cfg:604
 msgid ""
 "We must give this matter careful consideration. Come inside the city, and "
 "we'll discuss it."
-msgstr ""
+msgstr "我々はこの件に対して慎重に熟考しなければなりません。都市の中に来て下さい。そして、対策を検討しましょう。"
 
 #. [message]: speaker=narrator
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/04_The_Siege_Of_Barag_Gor.cfg:622
@@ -1465,7 +1449,6 @@ msgstr "海賊旗"
 
 #. [objective]: condition=win
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/06_Black_Flag.cfg:42
-#, fuzzy
 msgid "Defeat Slowhand and Harman"
 msgstr "Slowhand と Harman を倒す"
 
@@ -1893,9 +1876,8 @@ msgstr ""
 
 #. [objective]: condition=win
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/07_Desert_Of_Death.cfg:343
-#, fuzzy
 msgid "Defeat Ar-Dant"
-msgstr "Ar Dant を倒す"
+msgstr "Ar-Dant を倒す"
 
 #. [message]: speaker=Grüü
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/07_Desert_Of_Death.cfg:372
@@ -1925,9 +1907,8 @@ msgstr "静寂の森"
 
 #. [objective]: condition=win
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/08_Silent_Forest.cfg:20
-#, fuzzy
 msgid "Defeat the elves"
-msgstr "すべての敵のリーダーを倒す"
+msgstr "エルフ族を倒す"
 
 #. [side]: type=Elvish Shyde, id=Lucile
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/08_Silent_Forest.cfg:92
@@ -2153,6 +2134,9 @@ msgid ""
 "@Defeat Shan Taum\n"
 "`(early finish bonus)"
 msgstr ""
+"<255,255,255>別の目標:\n"
+"@Shan Taum を倒す\n"
+"`(早期終了ボーナス)"
 
 #. [side]: type=Orcish Warlord, id=Shan Taum
 #. [unit]: type=Orcish Warlord, id=Shan Taum
@@ -3854,7 +3838,7 @@ msgstr ""
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/18_Northern_Alliance.cfg:148
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/17_Human_Horde.cfg:685
 msgid "Howgarth III"
-msgstr ""
+msgstr "Howgarth 3 世"
 
 #. [message]: speaker=Howgarth III
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/17_Human_Horde.cfg:724
@@ -3964,9 +3948,8 @@ msgstr ""
 
 #. [objective]: condition=lose
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/18_Northern_Alliance.cfg:37
-#, fuzzy
 msgid "Death of Howgarth III"
-msgstr "Inarix の死"
+msgstr "Howgarth 3 世の死"
 
 #. [part]
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/18_Northern_Alliance.cfg:163
