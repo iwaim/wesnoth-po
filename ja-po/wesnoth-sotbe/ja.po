@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth 1.6.5\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2009-05-26 22:21+0200\n"
-"PO-Revision-Date: 2010-03-10 05:24+0900\n"
+"PO-Revision-Date: 2010-03-10 18:53+0900\n"
 "Last-Translator: IWAI, Masaharu <iwaim.sub@gmail.com>\n"
 "Language-Team: Japanese Translation Team\n"
 "MIME-Version: 1.0\n"
@@ -2488,12 +2488,12 @@ msgstr "ばいばい、$unit.name|！"
 #. [message]: speaker=Inarix
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/10_Saving_Inarix.cfg:526
 msgid "Damn you, Son of the Black-Eye! You'll pay for this!"
-msgstr ""
+msgstr "黒眼の子、こんちくしょう！貴様はこの代償を払うことになるだろう！"
 
 #. [message]
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/10_Saving_Inarix.cfg:540
 msgid "No, wait!"
-msgstr "待って！"
+msgstr "待ってくれ！"
 
 #. [message]: speaker=unit
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/10_Saving_Inarix.cfg:547
@@ -2508,7 +2508,7 @@ msgstr "もう少し待つ。"
 #. [message]: speaker=unit
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/10_Saving_Inarix.cfg:568
 msgid " *phew*"
-msgstr ""
+msgstr " *フー*"
 
 #. [message]: speaker=Kapou'e
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/10_Saving_Inarix.cfg:623
@@ -2711,20 +2711,18 @@ msgstr ""
 #. [message]: speaker=Gork
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/11_Clash_Of_Armies.cfg:371
 msgid "Here we are! Hold on Prestim, we arrive to push them to the river!"
-msgstr ""
-"我々は到着した！ Prestim を守ってくれ。我々は奴らを川に追い返すためにやってき"
-"た！"
+msgstr "到着したぞ！Prestim を守ってくれ。奴らを川に追い返すのだ！"
 
 #. [message]: speaker=Earl Lanbec'h
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/11_Clash_Of_Armies.cfg:376
 msgid "They are too numerous now, RETREAT!"
-msgstr "奴らはもう数が多すぎる。退却！"
+msgstr "数が多すぎる。退却！"
 
 #. [message]: speaker=Kapou'e
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/11_Clash_Of_Armies.cfg:398
 msgid ""
 "The Great Horde at last! I was beginning to think they would never come."
-msgstr "ついに大連合体ができた！ 奴らはもうここへはこないだろう。"
+msgstr "ついに Great Horde が結成された！奴らはもうここへはこないだろう。"
 
 #. [message]: speaker=Gork
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/11_Clash_Of_Armies.cfg:403
@@ -2739,13 +2737,10 @@ msgstr ""
 
 #. [message]: speaker=Pirk
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/11_Clash_Of_Armies.cfg:408
-#, fuzzy
 msgid ""
 "It is now time to show them who we are and to lead the Great Horde in "
 "pursuit. We will not rest until we destroy Earl Lanbec'h. Smite, stab, slay!"
-msgstr ""
-"さあ、彼らに我々が誰なのかを示し、大連合体を率いて追撃する時が来た！ 我々は "
-"Earl Lanbec'h を倒すまでは休むことはない！"
+msgstr "さあ、彼らに我々が誰なのかを示し、Great Horde を率いて追撃する時が来た！ 我々は Earl Lanbec'h を倒すまでは休むことはない。殴れ、突き刺せ、殺してやれ！"
 
 #. [message]: speaker=Kapou'e
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/11_Clash_Of_Armies.cfg:425
@@ -2768,29 +2763,29 @@ msgstr ""
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/13_Dwarvish_Stand.cfg:35
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/16_Coward.cfg:44
 msgid "The Great Horde: upkeep cost of every unit decreased by one."
-msgstr ""
+msgstr "The Great Horde: すべてのユニットの維持費が 1減少する。"
 
 #. [side]: type=Orcish Warlord, id=Al'Brock
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/12_Giving_Some_Back.cfg:59
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/17_Human_Horde.cfg:60
 msgid "Al'Brock"
-msgstr ""
+msgstr "Al'Brock"
 
 #. [side]: type=Orcish Warlord, id=Flar'Tar
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/12_Giving_Some_Back.cfg:72
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/17_Human_Horde.cfg:75
 msgid "Flar'Tar"
-msgstr ""
+msgstr "Flar'Tar"
 
 #. [side]: type=General, id=Arthur
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/12_Giving_Some_Back.cfg:86
 msgid "Arthur"
-msgstr ""
+msgstr "Arthur"
 
 #. [side]: type=Lieutenant, id=Hank
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/12_Giving_Some_Back.cfg:105
 msgid "Hank"
-msgstr ""
+msgstr "Hank"
 
 #. [part]
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/12_Giving_Some_Back.cfg:118
